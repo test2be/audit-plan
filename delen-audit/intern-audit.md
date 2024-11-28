@@ -29,8 +29,13 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
 3. **Acties**:  
    - Zorg ervoor dat laptops altijd op een veilige plek worden opgeborgen, bijvoorbeeld met een kabelslot of in een afgesloten kast.  
+     *Verbindt met Lemma: PR.PT-4 (Protective Technology: Toepassing van fysieke beveiliging op apparatuur en netwerken)*
+
    - Bewaar gevoelige documenten op een veilige plek.  
+     *Verbindt met Lemma: PR.DS-3 (Data Security: Fysieke en virtuele middelen worden beheerd bij verwijdering, overdracht en afstoting)*
+
    - Zorg ervoor dat alleen bevoegde mensen toegang hebben tot het kantoor.  
+     *Verbindt met Lemma: PR.AC-1 (Identity Management and Access Control: Beheer van fysieke toegang tot gevoelige gebieden)*
 
 ---
 
@@ -49,8 +54,13 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
 3. **Acties**:  
    - Stel een sterk wachtwoord in voor het Wi-Fi-netwerk en wijzig het regelmatig.  
+     *Verbindt met Lemma: PR.AC-3 (Identity Management and Access Control: Beheer van netwerkinstellingen, inclusief toegangspunten)*
+
    - Zet een apart netwerk op voor gasten en andere apparaten die geen toegang hoeven tot bedrijfsgegevens.  
+     *Verbindt met Lemma: PR.AC-3 (Identity Management and Access Control: Isoleren van netwerken om toegang te beperken)*
+
    - Zorg ervoor dat alle apparaten op het netwerk een virusscanner hebben en dat deze up-to-date is.  
+     *Verbindt met Lemma: PR.PT-1 (Protective Technology: Beveiliging van technologie via antivirussoftware en netwerkbeveiliging)*
 
 ---
 
@@ -69,8 +79,13 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
 3. **Acties**:  
    - Zorg ervoor dat automatische updates ingeschakeld zijn voor alle apparaten (computers, telefoons).  
+     *Verbindt met Lemma: PR.IP-3 (Information Protection: Beheer van beveiligingspatches en updates)*
+
    - Gebruik versleuteling voor apparaten zoals laptops, zodat gegevens niet toegankelijk zijn voor anderen.  
+     *Verbindt met Lemma: PR.DS-5 (Data Security: Versleuteling van gevoelige gegevens op apparaten)*
+
    - Stel duidelijke regels op voor het gebruik van persoonlijke apparaten voor werk.  
+     *Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Toegangscontrole voor persoonlijke apparaten)*
 
 ---
 
@@ -89,8 +104,13 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
 3. **Acties**:  
    - Maak regelmatig back-ups van belangrijke bestanden (bijvoorbeeld wekelijks) en bewaar ze op een veilige plaats (bv. een externe harde schijf of in de cloud).  
+     *Verbindt met Lemma: PR.DS-1 (Data Security: Beveiliging van gegevens door back-ups en veilige opslag)*
+
    - Zorg ervoor dat alleen medewerkers die toegang nodig hebben, bij gevoelige informatie kunnen.  
+     *Verbindt met Lemma: PR.AC-5 (Identity Management and Access Control: Minimum access rights en autorisatiebeheer)*
+
    - Versleutel vertrouwelijke informatie bij verzending (bijvoorbeeld via e-mail) en bij opslag.  
+     *Verbindt met Lemma: PR.DS-5 (Data Security: Versleuteling van gegevens voor veilige overdracht)*
 
 ---
 
@@ -109,7 +129,10 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
 3. **Acties**:  
    - Organiseer een eenvoudige training voor medewerkers over hoe ze phishing-e-mails kunnen herkennen en sterke wachtwoorden kunnen maken.  
+     *Verbindt met Lemma: PR.AT-1 (Awareness and Training: Trainingen en bewustwording voor medewerkers over beveiligingsrisico's)*
+
    - Zorg ervoor dat medewerkers weten waar ze beveiligingsproblemen kunnen melden.  
+     *Verbindt met Lemma: DE.AE-2 (Anomalies and Events: Melding van beveiligingsincidenten door medewerkers)*
 
 ---
 
@@ -125,4 +148,3 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
    - Geef korte adviezen over wat het bedrijf direct kan doen om de beveiliging te verbeteren.  
 
 ---
-
