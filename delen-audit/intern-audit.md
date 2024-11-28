@@ -75,7 +75,7 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
 ---
 
-### 3. Beheer van apparaten (20-25 minuten)
+## 3. Beheer van apparaten (20-25 minuten)
 
 ### Controlepunten:
 
@@ -105,7 +105,7 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
 ---
 
-### 4. Gegevensbeveiliging (20-25 minuten)
+## 4. Gegevensbeveiliging (20-25 minuten)
 
 ### Controlepunten:
 
@@ -135,7 +135,7 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
 ---
 
-### 5. Personeel en bewustzijn (15-20 minuten)
+## 5. Personeel en bewustzijn (15-20 minuten)
 
 ### Controlepunten:
 
@@ -162,7 +162,7 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
 ---
 
-### 6. Documentatie en rapportage (15-20 minuten)
+## 6. Documentatie en rapportage (15-20 minuten)
 
 ### Tijdens de audit:
 

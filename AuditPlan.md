@@ -85,7 +85,11 @@ Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, a
 - Zet versleuteling aan voor je laptops en apparaten, zoadt gegevens niet toegankelijk zijn voor andere.
   _Verbindt met Lemma: PR.DS-5 (Data Security: Versleuteling van gevoelige gegevens op apparaten)_
 - Stel duidelijke regels op voor het gebruik van persoonlijke apparaten voor werk.  
-   _Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Toegangscontrole voor persoonlijke apparaten)_
+  _Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Toegangscontrole voor persoonlijke apparaten)_
+- Segmenteer het interne netwerk zodat kritieke systemen gescheiden zijn van andere systemen.
+  _Verbindt met Lemma: PR.AC-11: Where appropriate, network integrity of the organization's critical systems shall be protected by incorporating network segmentation and segregation_
+- Stel monitoring in op interne netwerken en activeer logboeken voor verdachte activiteiten.
+  _Verbindt met Lemma: DE.CM-4: The network is monitored to detect potential cybersecurity events_
 
 ---
 
@@ -111,6 +115,8 @@ Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, a
   _Verbindt met Lemma: PR.AC-5 (Identity Management and Access Control: Minimum access rights en autorisatiebeheer)_
 - Versleutel vertrouwelijke informatie bij verzending (bijvoorbeeld via e-mail) en bij opslag.  
    _Verbindt met Lemma: PR.DS-5 (Data Security: Versleuteling van gegevens voor veilige overdracht)_
+- Stel een lijst op waarin systemen worden gerangschikt op basis van impact bij uitval.
+   _Verbindt met Lemma: ID.AM-5: Resources are prioritized based on their classification, criticality, and business value_
 
 ---
 
@@ -136,6 +142,8 @@ Te stellen vragen:
   _Verbindt met Lemma: PR.AT-1 (Awareness and Training: Trainingen en bewustwording voor medewerkers over beveiligingsrisico's)_
 - Zorg ervoor dat medewerkers weten waar ze beveiligingsproblemen kunnen melden.  
    _Verbindt met Lemma: DE.AE-2 (Anomalies and Events: Melding van beveiligingsincidenten door medewerkers)_
+- Schrijf een informatiebeveiligingsbeleid en update jaarlijks op basis van feedback.
+   _Verbindt met Lemma: ID.GV-4: Policies and procedures for information security and cybersecurity shall be created, documented, reviewed, approved, and updated when changes occur_
 
 ---
 
@@ -167,7 +175,10 @@ Het externe deel van de audit richt zich op de beveiliging van externe verbindin
   _Verbindt met Lemma: ID.AM-1 (Asset Management: Inventarisatie van fysieke apparaten die aan het netwerk hangen)_
 - Zorg ervoor dat de router altijd up-to-date is.
   _Verbindt met Lemma: ID.GV-1 (Governance: Beleidsmaatregelen voor informatiebeveiliging)_
-
+- Stel een risicoanalyse op die externe bedreigingen in kaart brengt en prioriteert.
+  _Verbindt met Lemma:ID.GV-6: Governance and risk management processes address cybersecurity risks_
+- Configureer firewalls om inkomend en uitgaand verkeer te beperken tot alleen noodzakelijke verbindingen.
+  _Verbindt met Lemma: PR.AC-10: Firewalls shall be installed and activated on all the organization's networks_
 ---
 
 ## 2.2 E-mail- en Online Communicatie
@@ -190,6 +201,11 @@ Het externe deel van de audit richt zich op de beveiliging van externe verbindin
   _Verbindt met Lemma: PR.AC-4 (Identity Management: Beheer van toegangsrechten met multi-factor authenticatie)_
 - Gebruik een spamfilter om verdachte e-mails te blokkeren.
   _Verbindt met Lemma: ID.GV-2 (Governance: Begrip en naleving van juridische eisen, waaronder privacy)_
+- Maak een overzicht van externe bedreigingen, zoals phishing en malware.
+  _Verbindt met Lemma: ID.RA-3: Threats, vulnerabilities, likelihoods, and impacts are used to determine risk_
+
+- Implementeer e-mailfilters en webfilters om schadelijke inhoud te blokkeren.
+  _Verbindt met Lemma: PR.PT-3: Communications and control networks are protected_
 
 ---
 
@@ -336,6 +352,8 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
   _Verbindt met Lemma: ID.GV-2 (Governance: Juridische en regelgevende vereisten omtrent cybersecurity worden begrepen en nageleefd)_
 - Controleer de cookie-instellingen op de website en zorg ervoor dat ze voldoen aan de AGV.
   _Verbindt met Lemma: PR.DS-1 (Data Security: Gegevens in rust worden beschermd)_
+- Zorg dat alle medewerkers bekend zijn met de regelgeving en documenteer naleving.
+   _Verbindt met Lemma:ID.GV-5: Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed_
 
 ---
 
@@ -361,6 +379,12 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
 
 - Controleer of er een herstelplan is voor dataverlies of cyberaanvallen.
   _Verbindt met Lemma: RC.RP-1 (Recovery Planning: Herstelplan wordt uitgevoerd na een incident)_
+
+- Maak een incidentresponsplan en organiseer simulaties voor crisissituaties.
+  _Verbindt met Lemma: RS.RP-2: Response plan is executed during or after an incident_
+
+- Test herstelprocedures regelmatig en zorg voor redundante back-ups op externe locaties.
+  _Verbindt met Lemma: RC.RP-2: Recovery plan is executed during or after a cybersecurity incident_
 
 ---
 

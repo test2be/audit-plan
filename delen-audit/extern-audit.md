@@ -36,6 +36,9 @@ De externe audit duurt ongeveer **1 tot 1,5 uur**. Dit omvat een korte controle 
 - **Configureer firewalls om inkomend en uitgaand verkeer te beperken tot alleen noodzakelijke verbindingen.**
   *Verbindt met Lemma: PR.AC-10: Firewalls shall be installed and activated on all the organization's networks*
 
+- **Stel een risicoanalyse op die externe bedreigingen in kaart brengt en prioriteert.**
+  *Verbindt met Lemma:ID.GV-6: Governance and risk management processes address cybersecurity risks*
+
 ---
 
 ## 2. E-mail- en online communicatie (15-20 minuten)
@@ -113,8 +116,6 @@ De externe audit duurt ongeveer **1 tot 1,5 uur**. Dit omvat een korte controle 
 
 - **Leg uit hoe regelmatig onderhoud aan de website risico's kan verminderen**.  
   *Verbindt met Lemma: PR.PT-1 (Protective Technology: Bescherming van communicatie en controle netwerken)*  
-- **Stel een risicoanalyse op die externe bedreigingen in kaart brengt en prioriteert.**
-  *Verbindt met Lemma:ID.GV-6: Governance and risk management processes address cybersecurity risks*
 
 ---
 
