@@ -6,102 +6,123 @@
 
 ---
 
-### **Totaal benodigde tijd**
-De externe audit duurt in totaal **ongeveer 1 tot 1,5 uur**, afhankelijk van het aantal gebruikte systemen en de complexiteit van de website en online diensten.
+#### **Doelstelling**
+Het interne deel van de audit is gericht op het controleren van de fysieke beveiliging, netwerken, apparaten en het bewustzijn van medewerkers binnen het bedrijf. Het doel is om te zorgen voor een basisbeveiliging die eenvoudig te begrijpen en te implementeren is voor kleine bedrijven met weinig technische kennis.
+
+**Tijdsduur:** ongeveer 1,5 tot 2 uur  
 
 ---
 
-#### **1. Internetverbinding**
+### **1. Fysieke beveiliging**
 **Tijdsduur:** 15-20 minuten  
+
+1. **Controlepunten**:  
+   - Is het kantoor goed afgesloten, zodat niemand zonder toestemming naar binnen kan?  
+   - Worden laptops en andere waardevolle apparaten veilig opgeborgen als ze niet worden gebruikt?  
+   - Zijn belangrijke documenten op een veilige plaats opgeslagen (bijv. in een lade of kast)?  
+   - Is er iemand verantwoordelijk voor het in de gaten houden van wie het kantoor binnenkomt en verlaat?  
+
+2. **Te stellen vragen**:  
+   - Hoe wordt de toegang tot het kantoor geregeld (bijv. sleutel of code)?  
+   - Waar bewaar je je laptop en andere apparaten als je ze niet gebruikt?  
+   - Wat gebeurt er met oude computers of documenten die je niet meer nodig hebt?  
+
+3. **Acties**:  
+   - Zorg ervoor dat laptops altijd op een veilige plek worden opgeborgen, bijvoorbeeld met een kabelslot of in een afgesloten kast.  
+   - Bewaar gevoelige documenten op een veilige plek.  
+   - Zorg ervoor dat alleen bevoegde mensen toegang hebben tot het kantoor.  
+
+---
+
+### **2. Interne netwerkbeveiliging**
+**Tijdsduur:** 20-25 minuten  
 
 1. **Controlepunten**:  
    - Is het Wi-Fi-netwerk beveiligd met een sterk wachtwoord?  
-   - Wordt er WPA2 of WPA3 gebruikt voor de Wi-Fi-beveiliging?  
-   - Is de router up-to-date (heeft de laatste updates)?  
-   - Wordt een gastnetwerk gebruikt voor bezoekers of privé-apparaten?  
+   - Is er een aparte Wi-Fi voor gasten en medewerkers?  
+   - Zijn de apparaten in het netwerk goed beschermd tegen virussen en andere bedreigingen?  
 
 2. **Te stellen vragen**:  
-   - Heeft het Wi-Fi-netwerk een wachtwoord? Is het makkelijk te raden?  
-   - Wanneer is de router voor het laatst gecontroleerd of geüpdatet?  
-   - Hebben bezoekers of andere apparaten toegang tot hetzelfde netwerk als de bedrijfsapparaten?  
+   - Is het Wi-Fi-wachtwoord moeilijk te raden?  
+   - Hebben gasten een eigen Wi-Fi-netwerk of delen zij de Wi-Fi van het bedrijf?  
+   - Hoe controleer je of apparaten op het netwerk veilig zijn?  
 
 3. **Acties**:  
-   - Controleer of het Wi-Fi-wachtwoord sterk is en pas dit aan indien nodig.  
-   - Stel een apart gastnetwerk in voor bezoekers en privé-apparaten.  
-   - Controleer de routerinstellingen en update de software indien nodig.  
+   - Stel een sterk wachtwoord in voor het Wi-Fi-netwerk en wijzig het regelmatig.  
+   - Zet een apart netwerk op voor gasten en andere apparaten die geen toegang hoeven tot bedrijfsgegevens.  
+   - Zorg ervoor dat alle apparaten op het netwerk een virusscanner hebben en dat deze up-to-date is.  
 
 ---
 
-#### **2. E-mailbeveiliging**
-**Tijdsduur:** 10-15 minuten  
+### **3. Beheer van apparaten**
+**Tijdsduur:** 20-25 minuten  
 
 1. **Controlepunten**:  
-   - Zijn e-mailwachtwoorden sterk en uniek?  
-   - Wordt twee-staps-verificatie (2FA) gebruikt voor e-mails?  
-   - Is het spamfilter ingeschakeld en actief?  
-   - Worden verdachte e-mails herkend en niet geopend?  
+   - Worden apparaten zoals computers en telefoons regelmatig geüpdatet met de nieuwste software?  
+   - Zijn er regels voor het gebruik van persoonlijke apparaten (bijv. telefoon) voor werk?  
+   - Worden laptops versleuteld zodat ze niet kunnen worden gelezen als ze verloren gaan?  
 
 2. **Te stellen vragen**:  
-   - Is het e-mailwachtwoord voor iedereen anders of gebruiken meerdere mensen hetzelfde?  
-   - Wat doe je als je een e-mail krijgt die je niet vertrouwt?  
-   - Heb je wel eens phishing-e-mails ontvangen?  
+   - Worden je apparaten automatisch bijgewerkt of moet je dit handmatig doen?  
+   - Gebruik je je eigen telefoon voor werk? Zo ja, hoe zorg je ervoor dat die veilig is?  
+   - Wat gebeurt er als je laptop verloren gaat of gestolen wordt?  
 
 3. **Acties**:  
-   - Adviseer een sterk wachtwoord voor e-mails en het gebruik van 2FA.  
-   - Geef eenvoudige tips om phishing-e-mails te herkennen, zoals controleren van het afzenderadres.  
-   - Controleer of spamfilters actief zijn en pas ze indien nodig aan.  
+   - Zorg ervoor dat automatische updates ingeschakeld zijn voor alle apparaten (computers, telefoons).  
+   - Gebruik versleuteling voor apparaten zoals laptops, zodat gegevens niet toegankelijk zijn voor anderen.  
+   - Stel duidelijke regels op voor het gebruik van persoonlijke apparaten voor werk.  
 
 ---
 
-#### **3. Online diensten en cloudopslag**
+### **4. Gegevensbeveiliging**
+**Tijdsduur:** 20-25 minuten  
+
+1. **Controlepunten**:  
+   - Worden belangrijke bestanden regelmatig geback-upt (bv. elke week)?  
+   - Hebben alleen de juiste mensen toegang tot belangrijke gegevens?  
+   - Worden gegevens versleuteld als ze opgeslagen of verzonden worden?  
+
+2. **Te stellen vragen**:  
+   - Hoe vaak maak je een back-up van belangrijke bestanden?  
+   - Wie kan er bij de belangrijke gegevens binnen het bedrijf?  
+   - Hoe verstuur je vertrouwelijke informatie? Is deze versleuteld?  
+
+3. **Acties**:  
+   - Maak regelmatig back-ups van belangrijke bestanden (bijvoorbeeld wekelijks) en bewaar ze op een veilige plaats (bv. een externe harde schijf of in de cloud).  
+   - Zorg ervoor dat alleen medewerkers die toegang nodig hebben, bij gevoelige informatie kunnen.  
+   - Versleutel vertrouwelijke informatie bij verzending (bijvoorbeeld via e-mail) en bij opslag.  
+
+---
+
+### **5. Personeel en bewustzijn**
 **Tijdsduur:** 15-20 minuten  
 
 1. **Controlepunten**:  
-   - Worden online diensten, zoals cloudopslag of boekhoudsoftware, beschermd met sterke wachtwoorden?  
-   - Zijn belangrijke bestanden goed beveiligd en alleen toegankelijk voor de juiste personen?  
-   - Worden belangrijke bestanden regelmatig geback-upt?  
+   - Weten medewerkers wat ze moeten doen als ze een verdachte e-mail of beveiligingsincident zien?  
+   - Worden medewerkers getraind in hoe ze sterke wachtwoorden moeten kiezen en phishing-e-mails moeten herkennen?  
+   - Is er een manier voor medewerkers om beveiligingsproblemen te melden?  
 
 2. **Te stellen vragen**:  
-   - Welke programma’s of diensten gebruik je voor het opslaan van bestanden (bijv. Google Drive, OneDrive)?  
-   - Wie heeft toegang tot deze diensten of bestanden?  
-   - Worden bestanden ergens opgeslagen buiten de cloud, zoals op een externe harde schijf?  
+   - Wat moet je doen als je een verdachte e-mail ontvangt?  
+   - Heb je ooit geleerd hoe je een sterk wachtwoord maakt?  
+   - Hoe meld je een probleem als je iets verdachts ziet op je computer of in je werk?  
 
 3. **Acties**:  
-   - Controleer en stel sterke wachtwoorden in voor online diensten.  
-   - Adviseer regelmatig back-ups van belangrijke bestanden, zowel lokaal als in de cloud.  
-   - Controleer of gevoelige bestanden alleen toegankelijk zijn voor degenen die deze echt nodig hebben.  
+   - Organiseer een eenvoudige training voor medewerkers over hoe ze phishing-e-mails kunnen herkennen en sterke wachtwoorden kunnen maken.  
+   - Zorg ervoor dat medewerkers weten waar ze beveiligingsproblemen kunnen melden.  
 
 ---
 
-#### **4. Beveiliging van de bedrijfswebsite**
-**Tijdsduur:** 10-15 minuten  
+### **6. Documentatie en rapportage**
+**Tijdsduur:** 15-20 minuten  
 
-1. **Controlepunten**:  
-   - Heeft de website een HTTPS-verbinding (slotje in de adresbalk)?  
-   - Wordt de website regelmatig bijgewerkt (CMS, plugins, thema’s)?  
-   - Wordt klantinformatie via de website veilig verwerkt?  
+1. **Tijdens de audit**:  
+   - Noteer bevindingen per sectie en maak onderscheid tussen belangrijke risico's en minder urgente problemen.  
+   - Schrijf alles duidelijk op, zodat medewerkers de bevindingen makkelijk kunnen begrijpen en actie kunnen ondernemen.  
 
-2. **Te stellen vragen**:  
-   - Heeft de website een slotje in de adresbalk?  
-   - Wanneer is de website voor het laatst gecontroleerd of bijgewerkt?  
-   - Waar worden gegevens opgeslagen die klanten via de website versturen (bijvoorbeeld via een formulier)?  
-
-3. **Acties**:  
-   - Adviseer een SSL-certificaat voor een veilige HTTPS-verbinding indien dit ontbreekt.  
-   - Zorg dat het CMS en eventuele plugins altijd up-to-date zijn.  
-   - Controleer of klantinformatie goed wordt beschermd en veilig wordt opgeslagen.  
+2. **Eindrapport**:  
+   - Maak een eenvoudig rapport met duidelijke verbeterpunten.  
+   - Geef korte adviezen over wat het bedrijf direct kan doen om de beveiliging te verbeteren.  
 
 ---
-
-#### **Rapportage en Verbetering**
-1. **Bevindingen documenteren**:  
-   - Noteer eenvoudige verbeterpunten zoals zwakke wachtwoorden, verouderde routers of een ontbrekend HTTPS-certificaat.  
-   - Gebruik duidelijke taal en geef korte uitleg over waarom verbeteringen nodig zijn.  
-
-2. **Actieplan opstellen**:  
-   - Begin met eenvoudige, snelle verbeteringen zoals wachtwoordupdates of het instellen van een gastnetwerk.  
-   - Stel voor om jaarlijks een audit te doen om beveiliging up-to-date te houden.  
-
----
-
 
