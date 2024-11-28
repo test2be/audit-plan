@@ -70,6 +70,12 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
    - Zorg ervoor dat alle apparaten op het netwerk een virusscanner hebben en dat deze up-to-date is.  
      _Verbindt met Lemma: PR.PT-1 (Protective Technology: Beveiliging van technologie via antivirussoftware en netwerkbeveiliging)_
+   
+   - Segmenteer het interne netwerk zodat kritieke systemen gescheiden zijn van andere systemen.
+     _Verbindt met Lemma: PR.AC-11: Where appropriate, network integrity of the organization's critical systems shall be protected by incorporating network segmentation and segregation_
+   
+   - Stel monitoring in op interne netwerken en activeer logboeken voor verdachte activiteiten.
+     _Verbindt met Lemma: DE.CM-4: The network is monitored to detect potential cybersecurity events_
 
 ---
 
@@ -99,6 +105,8 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
    - Stel duidelijke regels op voor het gebruik van persoonlijke apparaten voor werk.  
      _Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Toegangscontrole voor persoonlijke apparaten)_
+   - Beperk het gebruik van admin-accounts tot systeembeheer en stel aparte accounts in voor dagelijks gebruik.
+     _Verbindt met Lemma:PR.AC-9: Nobody shall have administrator privileges for daily tasks_
 
 ---
 
@@ -128,6 +136,8 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
    - Versleutel vertrouwelijke informatie bij verzending (bijvoorbeeld via e-mail) en bij opslag.  
      _Verbindt met Lemma: PR.DS-5 (Data Security: Versleuteling van gegevens voor veilige overdracht)_
+   - Stel een lijst op waarin systemen worden gerangschikt op basis van impact bij uitval.
+    _Verbindt met Lemma: ID.AM-5: Resources are prioritized based on their classification, criticality, and business value_
 
 ---
 
@@ -154,6 +164,8 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
    - Zorg ervoor dat medewerkers weten waar ze beveiligingsproblemen kunnen melden.  
      _Verbindt met Lemma: DE.AE-2 (Anomalies and Events: Melding van beveiligingsincidenten door medewerkers)_
+   - Schrijf een informatiebeveiligingsbeleid en update jaarlijks op basis van feedback.
+     _Verbindt met Lemma: ID.GV-4: Policies and procedures for information security and cybersecurity shall be created, documented, reviewed, approved, and updated when changes occur_
 
 ---
 

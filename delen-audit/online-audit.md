@@ -113,12 +113,13 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 
 ### Acties:
 
-- **Zorg ervoor dat de privacybeleid en verwerkersovereenkomsten worden bijgewerkt en voldoen aan de wetgeving.**
+- Zorg ervoor dat de privacybeleid en verwerkersovereenkomsten worden bijgewerkt en voldoen aan de wetgeving.
   _Verbindt met Lemma: ID.GV-2 (Governance: Juridische en regelgevende vereisten omtrent cybersecurity worden begrepen en nageleefd)_
 
-- **Controleer de cookie-instellingen op de website en zorg ervoor dat ze voldoen aan de AVG.**
+- Controleer de cookie-instellingen op de website en zorg ervoor dat ze voldoen aan de AVG.
   _Verbindt met Lemma: PR.DS-1 (Data Security: Gegevens in rust worden beschermd)_
-
+- Zorg dat alle medewerkers bekend zijn met de regelgeving en documenteer naleving.
+  _Verbindt met Lemma:ID.GV-5: Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed_
 ---
 
 ## 5. Back-ups en herstelplannen
@@ -143,6 +144,12 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 
 - **Controleer of er een herstelplan is voor dataverlies of cyberaanvallen.**
   _Verbindt met Lemma: RC.RP-1 (Recovery Planning: Herstelplan wordt uitgevoerd na een incident)_
+
+- **Maak een incidentresponsplan en organiseer simulaties voor crisissituaties.**
+  _Verbindt met Lemma: RS.RP-2: Response plan is executed during or after an incident_
+
+- **Test herstelprocedures regelmatig en zorg voor redundante back-ups op externe locaties.**
+  _Verbindt met Lemma: RC.RP-2: Recovery plan is executed during or after a cybersecurity incident_
 
 ---
 
