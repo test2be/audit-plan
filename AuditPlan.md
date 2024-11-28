@@ -30,8 +30,11 @@ Te stellen vragen:
 Acties:
 
 - Zorg ervoor dat laptops altijd veilig opgeborgen worden.
+  _Verbindt met Lemma: PR.PT-4 (Protective Technology: Toepassing van fysieke beveiliging op apparatuur en netwerken)_
 - Bewaar belangrijke documenten op een veilige plek.
+  _Verbindt met Lemma: PR.DS-3 (Data Security: Fysieke en virtuele middelen worden beheerd bij verwijdering, overdracht en afstoting)_
 - Zorg ervoor dat alleen de juiste mensen toegang hebben tot het kantoor.
+  _Verbindt met Lemma: PR.AC-1 (Identity Management and Access Control: Beheer van fysieke toegang tot gevoelige gebieden)_
 
 ---
 
@@ -50,8 +53,11 @@ Te stellen vragen:
 
 Acties:
 
-- Zet een sterk wachtwoord in voor je Wi-Fi.
-- Maak een apart netwerk voor gasten.
+- Zet een sterk wachtwoord in voor je Wi-Fi en wijzig het regelmatig.
+  _Verbindt met Lemma: PR.AC-3 (Identity Management and Access Control: Beheer van netwerkinstellingen, inclusief toegangspunten)_
+- Zet een apart netwerk op voor gasten en andere apparaten die geen toegang hoeven te hebben tot bedrijfsgegevens.
+  _Verbindt met Lemma: PR.AC-3 (Identity Management and Access Control: Isoleren van netwerken om toegang te beperken)_
+  - Zorg ervoor dat alle apparaten op het netwerk een virusscanner hebben en dat deze up-to-date is.
 
 ---
 
@@ -71,7 +77,11 @@ Te stellen vragen:
 Acties:
 
 - Zorg ervoor dat automatische updates zijn ingeschakeld.
-- Zet versleuteling aan voor je laptops en apparaten.
+  _Verbindt met Lemma: PR.IP-3 (Information Protection: Beheer van beveiligingspatches en updates)_
+- Zet versleuteling aan voor je laptops en apparaten, zoadt gegevens niet toegankelijk zijn voor andere.
+  _Verbindt met Lemma: PR.DS-5 (Data Security: Versleuteling van gevoelige gegevens op apparaten)_
+- Stel duidelijke regels op voor het gebruik van persoonlijke apparaten voor werk.  
+   _Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Toegangscontrole voor persoonlijke apparaten)_
 
 ---
 
@@ -91,7 +101,11 @@ Te stellen vragen:
 Acties:
 
 - Maak regelmatig back-ups van belangrijke bestanden.
+  _Verbindt met Lemma: PR.DS-1 (Data Security: Beveiliging van gegevens door back-ups en veilige opslag)_
 - Zorg ervoor dat alleen de juiste mensen toegang hebben tot vertrouwelijke gegevens.
+  _Verbindt met Lemma: PR.AC-5 (Identity Management and Access Control: Minimum access rights en autorisatiebeheer)_
+- Versleutel vertrouwelijke informatie bij verzending (bijvoorbeeld via e-mail) en bij opslag.  
+   _Verbindt met Lemma: PR.DS-5 (Data Security: Versleuteling van gegevens voor veilige overdracht)_
 
 ---
 
@@ -111,7 +125,11 @@ Te stellen vragen:
 Acties:
 
 - Zorg ervoor dat medewerkers weten wat te doen bij verdachte e-mails.
+  _Verbindt met Lemma: PR.AT-1 (Awareness and Training: Trainingen en bewustwording voor medewerkers over beveiligingsrisico's)_
 - Geef medewerkers training over sterke wachtwoorden. (Leg uit wat een sterk wachtwoord is)
+  _Verbindt met Lemma: PR.AT-1 (Awareness and Training: Trainingen en bewustwording voor medewerkers over beveiligingsrisico's)_
+- Zorg ervoor dat medewerkers weten waar ze beveiligingsproblemen kunnen melden.  
+   _Verbindt met Lemma: DE.AE-2 (Anomalies and Events: Melding van beveiligingsincidenten door medewerkers)_
 
 ---
 
@@ -138,7 +156,9 @@ Te stellen vragen:
 Acties:
 
 - Zet een sterk wachtwoord voor je Wi-Fi-netwerk.
+  _Verbindt met Lemma: ID.AM-1 (Asset Management: Inventarisatie van fysieke apparaten die aan het netwerk hangen)_
 - Zorg ervoor dat de router altijd up-to-date is.
+  _Verbindt met Lemma: ID.GV-1 (Governance: Beleidsmaatregelen voor informatiebeveiliging)_
 
 ---
 
@@ -158,7 +178,9 @@ Te stellen vragen:
 Acties:
 
 - Zet 2FA in voor e-mailaccounts als dat mogelijk is.
+  _Verbindt met Lemma: PR.AC-4 (Identity Management: Beheer van toegangsrechten met multi-factor authenticatie)_
 - Gebruik een spamfilter om verdachte e-mails te blokkeren.
+  _Verbindt met Lemma: ID.GV-2 (Governance: Begrip en naleving van juridische eisen, waaronder privacy)_
 
 ---
 
@@ -178,7 +200,9 @@ Te stellen vragen:
 Acties:
 
 - Zet een sterk wachtwoord in voor cloudopslag.
+  _Verbindt met Lemma: PR.AC-7 (Identity Management: Beheer van toegang tot kritieke informatie en technologie)_
 - Controleer regelmatig wie toegang heeft tot je gedeelde documenten.
+  _Verbindt met Lemma: PR.DS-1 (Data Security: Bescherming van gegevens in rust)_
 
 ---
 
@@ -198,7 +222,9 @@ Te stellen vragen:
 Acties:
 
 - Zorg voor HTTPS-beveiliging op je website.
+  _Verbindt met Lemma: PR.DS-2 (Data Security: Bescherming van gegevens in transit)_
 - Werk je website regelmatig bij.
+  _Verbindt met Lemma: PR.PT-1 (Protective Technology: Bescherming van communicatie en controle netwerken)_
 
 ---
 
@@ -225,7 +251,9 @@ Te stellen vragen:
 Acties:
 
 - Zet tweefactorauthenticatie in voor belangrijke accounts.
+  _Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Beheer van toegang via multi-factor authenticatie)_
 - Gebruik sterke wachtwoorden voor al je online accounts.
+  _Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Beheer van toegang via multi-factor authenticatie)_
 
 ---
 
@@ -245,7 +273,9 @@ Te stellen vragen:
 Acties:
 
 - Zet 2FA in voor sociale media-accounts.
-- Controleer regelmatig je sociale media-accounts op verdachte activiteiten.
+  _Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Beheer van toegang via multi-factor authenticatie)_
+- Controleer of er regelmatig een audit wordt uitgevoerd op de social media accounts van het bedrijf.
+  _Verbindt met Lemma: PR.AT-1 (Awareness and Training: Alle gebruikers zijn geïnformeerd en getraind over veilig gebruik van online platforms)_
 
 ---
 
@@ -264,7 +294,9 @@ Te stellen vragen:
 Acties:
 
 - Zet tools in om online bedreigingen te monitoren.
+  _Verbindt met Lemma: DE.AE-1 (Anomalies and Events: Gegevens worden verzameld en gecorreleerd van meerdere bronnen en sensoren)_
 - Wees alert op verdachte e-mails en activiteiten online.
+  _Verbindt met Lemma: PR.AT-1 (Awareness and Training: Alle gebruikers zijn geïnformeerd en getraind)_
 
 ---
 
@@ -283,7 +315,60 @@ Te stellen vragen:
 Acties:
 
 - Zorg ervoor dat je voldoet aan de privacywetgeving (zoals de AVG). Als men ook niet weet wat bijvoorbeeld AVG is, leg je dit ook uit.
+  _Verbindt met Lemma: ID.GV-2 (Governance: Juridische en regelgevende vereisten omtrent cybersecurity worden begrepen en nageleefd)_
 - Stel duidelijke regels in voor het omgaan met klantgegevens.
+  _Verbindt met Lemma: ID.GV-2 (Governance: Juridische en regelgevende vereisten omtrent cybersecurity worden begrepen en nageleefd)_
+- Controleer de cookie-instellingen op de website en zorg ervoor dat ze voldoen aan de AGV.
+  _Verbindt met Lemma: PR.DS-1 (Data Security: Gegevens in rust worden beschermd)_
+
+---
+
+**3.5 Back-ups en hetstelplannen**
+controlerpunten:
+
+- Worden gegevens van online diensten regelmatig geback-upt?
+- Zijn back-ups versleuteld en opgeslagen op een veilige locatie?
+- Is er een herstelplan in geval van dataverlies of een aanval op online systemen?
+- Worden back-ups getest om zeker te zijn dat ze werken?
+
+Te stellen vragen:
+
+1. Waar worden back-ups van online gegevens opgeslagen?
+2. Hoe vaak worden back-ups gemaakt en gecontroleerd?
+3. Wat is het proces om gegevens te herstellen na een incident?
+
+Acties:
+
+- Zorg ervoor dat back-ups veilig worden opgeslagen en regelmatig worden gecontroleerd.
+  _Verbindt met Lemma: PR.DS-3 (Data Security: Fysieke en virtuele middelen worden beheerd bij verwijdering, overdracht en afstoting)_
+
+- Controleer of er een herstelplan is voor dataverlies of cyberaanvallen.
+  _Verbindt met Lemma: RC.RP-1 (Recovery Planning: Herstelplan wordt uitgevoerd na een incident)_
+
+---
+
+## 3.6. Beveiliging van websites en online diensten
+
+Controlepunten:
+
+- Wordt de website regelmatig gecontroleerd op kwetsbaarheden (bijv. scans voor malware of kwetsbaarheden in CMS)?
+- Is er een beleid voor het beheren van toegangsrechten tot de website en hostingplatforms?
+- Wordt er gebruik gemaakt van CDN’s (Content Delivery Networks) en DDoS-bescherming?
+- Zijn API’s en andere online diensten goed beveiligd tegen ongeautoriseerde toegang?
+
+Te stellen vragen:
+
+1. Wie is verantwoordelijk voor het onderhoud van de website en andere online diensten?
+2. Hoe worden beveiligingsupdates en patches geïmplementeerd?
+3. Worden er regelmatig scans uitgevoerd om kwetsbaarheden te identificeren?
+
+Acties:
+
+- Zorg ervoor dat er een beleid bestaat voor de beveiliging van de website en online diensten, inclusief het gebruik van beveiligingspatches.
+  _Verbindt met Lemma: PR.MA-1 (Maintenance: Onderhoud en reparatie van organisatieassets wordt uitgevoerd en gedocumenteerd)_
+
+- Controleer of er gebruik wordt gemaakt van een CDN en DDoS-bescherming.
+  _Verbindt met Lemma: PR.PT-1 (Protective Technology: Bescherming van communicatie- en controle-netwerken)_
 
 ---
 
