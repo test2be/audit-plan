@@ -6,6 +6,18 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
 
 ---
 
+## Tijdsinvestering – Online Audit
+
+De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
+
+- Controle van accounts en systemen: 30-45 minuten.
+- Sociale media en reputatiebeheer: 30 minuten.
+- Monitoring van bedreigingen: 30-45 minuten.
+- Compliance en regelgeving: 15-30 minuten.
+- Websites en online diensten: 30 minuten.
+- Resultaatbespreking: 30-45 minuten.
+- Totale tijd: 2,5 tot 4 uur.
+
 ## 1. Beveiliging van online accounts
 
 ### Controlepunten:
