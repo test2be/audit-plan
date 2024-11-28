@@ -38,11 +38,12 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 3. Hoe wordt toegang tot gevoelige online diensten (bijv. boekhoudsoftware, CRM-systemen) beheerd?
 
 ### Acties:
+
 - **Controleer of alle bedrijfsaccounts beveiligd zijn met MFA en sterke wachtwoorden.**
-  *Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Beheer van toegang via multi-factor authenticatie)*
+  _Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Beheer van toegang via multi-factor authenticatie)_
 
 - **Zorg ervoor dat accounts van voormalige medewerkers direct worden gedeactiveerd.**
-  *Verbindt met Lemma: PR.AC-9 (Identity Management and Access Control: Beheer van toegangsrechten en autorisaties, inclusief het principe van de minste privilege)*
+  _Verbindt met Lemma: PR.AC-9 (Identity Management and Access Control: Beheer van toegangsrechten en autorisaties, inclusief het principe van de minste privilege)_
 
 ---
 
@@ -62,11 +63,12 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 3. Wat is het proces als een account wordt gehackt of ongewenste content wordt geplaatst?
 
 ### Acties:
+
 - **Controleer of er regelmatig een audit wordt uitgevoerd op de social media accounts van het bedrijf.**
-  *Verbindt met Lemma: PR.AT-1 (Awareness and Training: Alle gebruikers zijn geïnformeerd en getraind over veilig gebruik van online platforms)*
+  _Verbindt met Lemma: PR.AT-1 (Awareness and Training: Alle gebruikers zijn geïnformeerd en getraind over veilig gebruik van online platforms)_
 
 - **Zorg ervoor dat MFA is geconfigureerd op alle social media accounts.**
-  *Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Beheer van toegang via multi-factor authenticatie)*
+  _Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Beheer van toegang via multi-factor authenticatie)_
 
 ---
 
@@ -86,11 +88,12 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 3. Worden medewerkers regelmatig geïnformeerd over actuele online bedreigingen?
 
 ### Acties:
+
 - **Zorg ervoor dat er een meldsysteem is voor verdachte activiteiten, zoals phishing-aanvallen.**
-  *Verbindt met Lemma: DE.AE-1 (Anomalies and Events: Gegevens worden verzameld en gecorreleerd van meerdere bronnen en sensoren)*
+  _Verbindt met Lemma: DE.AE-1 (Anomalies and Events: Gegevens worden verzameld en gecorreleerd van meerdere bronnen en sensoren)_
 
 - **Controleer of medewerkers regelmatig trainingen krijgen over het herkennen van online bedreigingen.**
-  *Verbindt met Lemma: PR.AT-1 (Awareness and Training: Alle gebruikers zijn geïnformeerd en getraind)*
+  _Verbindt met Lemma: PR.AT-1 (Awareness and Training: Alle gebruikers zijn geïnformeerd en getraind)_
 
 ---
 
@@ -109,11 +112,12 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 3. Worden online diensten periodiek geëvalueerd op naleving van beveiligingsnormen?
 
 ### Acties:
+
 - **Zorg ervoor dat de privacybeleid en verwerkersovereenkomsten worden bijgewerkt en voldoen aan de wetgeving.**
-  *Verbindt met Lemma: ID.GV-2 (Governance: Juridische en regelgevende vereisten omtrent cybersecurity worden begrepen en nageleefd)*
+  _Verbindt met Lemma: ID.GV-2 (Governance: Juridische en regelgevende vereisten omtrent cybersecurity worden begrepen en nageleefd)_
 
 - **Controleer de cookie-instellingen op de website en zorg ervoor dat ze voldoen aan de AVG.**
-  *Verbindt met Lemma: PR.DS-1 (Data Security: Gegevens in rust worden beschermd)*
+  _Verbindt met Lemma: PR.DS-1 (Data Security: Gegevens in rust worden beschermd)_
 
 ---
 
@@ -133,11 +137,12 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 3. Wat is het proces om gegevens te herstellen na een incident?
 
 ### Acties:
+
 - **Zorg ervoor dat back-ups veilig worden opgeslagen en regelmatig worden gecontroleerd.**
-  *Verbindt met Lemma: PR.DS-3 (Data Security: Fysieke en virtuele middelen worden beheerd bij verwijdering, overdracht en afstoting)*
+  _Verbindt met Lemma: PR.DS-3 (Data Security: Fysieke en virtuele middelen worden beheerd bij verwijdering, overdracht en afstoting)_
 
 - **Controleer of er een herstelplan is voor dataverlies of cyberaanvallen.**
-  *Verbindt met Lemma: RC.RP-1 (Recovery Planning: Herstelplan wordt uitgevoerd na een incident)*
+  _Verbindt met Lemma: RC.RP-1 (Recovery Planning: Herstelplan wordt uitgevoerd na een incident)_
 
 ---
 
@@ -157,11 +162,12 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 3. Worden er regelmatig scans uitgevoerd om kwetsbaarheden te identificeren?
 
 ### Acties:
+
 - **Zorg ervoor dat er een beleid bestaat voor de beveiliging van de website en online diensten, inclusief het gebruik van beveiligingspatches.**
-  *Verbindt met Lemma: PR.MA-1 (Maintenance: Onderhoud en reparatie van organisatieassets wordt uitgevoerd en gedocumenteerd)*
+  _Verbindt met Lemma: PR.MA-1 (Maintenance: Onderhoud en reparatie van organisatieassets wordt uitgevoerd en gedocumenteerd)_
 
 - **Controleer of er gebruik wordt gemaakt van een CDN en DDoS-bescherming.**
-  *Verbindt met Lemma: PR.PT-1 (Protective Technology: Bescherming van communicatie- en controle-netwerken)*
+  _Verbindt met Lemma: PR.PT-1 (Protective Technology: Bescherming van communicatie- en controle-netwerken)_
 
 ---
 
