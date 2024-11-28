@@ -1,22 +1,14 @@
-# Security Audit Plan – Online Deel
+| Autheur |        |        |
+| ------- | ------ | ------ |
+| Tristan | Yenthe | Gerben |
+
+# Beveiligingsaudit Plan – Volledig
 
 ## Doelstelling
 
-Het online deel van de audit richt zich op het beoordelen van de beveiliging van digitale aanwezigheid en accounts. Dit omvat de bescherming van online diensten, sociale media, en accounts die door het bedrijf worden gebruikt, evenals monitoring van online bedreigingen.
+Het beveiligingsauditplan richt zich op het beoordelen van de algehele beveiliging van de organisatie, met specifieke focus op online aanwezigheid, externe communicatiekanalen, en interne systemen. Dit omvat de bescherming van accounts, netwerken, apparaten, cloudopslag, en de naleving van wetgeving en regelgeving.
 
 ---
-
-## Tijdsinvestering – Online Audit
-
-De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
-
-- Controle van accounts en systemen: 30-45 minuten.
-- Sociale media en reputatiebeheer: 30 minuten.
-- Monitoring van bedreigingen: 30-45 minuten.
-- Compliance en regelgeving: 15-30 minuten.
-- Websites en online diensten: 30 minuten.
-- Resultaatbespreking: 30-45 minuten.
-- Totale tijd: 2,5 tot 4 uur.
 
 ## 1. Beveiliging van online accounts
 
@@ -40,7 +32,7 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 ### Controlepunten:
 
 - Worden bedrijfsaccounts op sociale media regelmatig gecontroleerd op verdachte activiteit?
-- Zijn sociale media accounts beveiligd met sterke wachtwoorden en MFA (multi-factor authnetication)?
+- Zijn sociale media accounts beveiligd met sterke wachtwoorden en MFA (multi-factor authentication)?
 - Is er een beleid voor wat medewerkers wel en niet mogen posten op sociale media met betrekking tot het bedrijf?
 - Wordt er gemonitord welke informatie over het bedrijf publiekelijk beschikbaar is via sociale media?
 
@@ -119,6 +111,71 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 
 ---
 
+## 7. Beveiliging van internetverbinding
+
+### Controlepunten:
+
+- Is het Wi-Fi-netwerk beveiligd met een sterk wachtwoord en WPA3 (of WPA2) encryptie?
+- Heeft de router recente beveiligingsupdates (firmware)?
+- Is remote toegang tot de router en andere systemen uitgeschakeld als dit niet nodig is?
+- Wordt er een gastnetwerk gebruikt voor bezoekers en privé-apparaten?
+
+### Te stellen vragen:
+
+1. Hoe is het Wi-Fi-netwerk ingesteld? (Vraag om het wachtwoord te controleren op sterkte.)
+2. Wie beheert de router en voert updates uit?
+3. Wordt het netwerk regelmatig gecontroleerd op vreemde apparaten?
+
+---
+
+## 8. E-mail- en online communicatie
+
+### Controlepunten:
+
+- Worden zakelijke e-mailaccounts beschermd met sterke wachtwoorden en indien mogelijk twee-staps-verificatie (2FA)?
+- Is het spamfilter ingeschakeld om phishing-aanvallen te verminderen?
+- Wordt gevoelige informatie nooit gedeeld via onbeveiligde e-mails of berichten?
+
+### Te stellen vragen:
+
+1. Hoe vaak worden wachtwoorden van e-mailaccounts gewijzigd?
+2. Hoe herkennen medewerkers verdachte e-mails?
+3. Wordt er gebruik gemaakt van een professioneel e-maildomein (bijv. naam@bedrijf.nl)?
+
+---
+
+## 9. Online diensten en cloudopslag
+
+### Controlepunten:
+
+- Worden online diensten zoals boekhoudsoftware, agenda’s of cloudopslag beveiligd met sterke wachtwoorden en tweefactorauthenticatie?
+- Is toegang tot gevoelige gegevens beperkt tot de juiste personen?
+- Worden gevoelige gegevens opgeslagen in beveiligde cloudomgevingen (bijv. OneDrive, Google Drive met beveiligingsopties)?
+
+### Te stellen vragen:
+
+1. Welke online diensten gebruikt het bedrijf dagelijks?
+2. Worden regelmatig back-ups gemaakt van belangrijke bestanden?
+3. Wie heeft toegang tot gedeelde documenten of mappen in de cloud?
+
+---
+
+## 10. Beveiliging van bedrijfswebsite
+
+### Controlepunten:
+
+- Is de website beveiligd met een HTTPS-verbinding (SSL-certificaat)?
+- Wordt de website regelmatig bijgewerkt, inclusief eventuele plugins en thema's?
+- Heeft de website een contactformulier of andere functies die beveiligd moeten worden tegen spam of misbruik?
+
+### Te stellen vragen:
+
+1. Wie beheert de website en implementeert updates?
+2. Wordt er regelmatig gecontroleerd op verdachte activiteiten of hacks?
+3. Hoe wordt klantinformatie die via de website binnenkomt, beschermd?
+
+---
+
 ## Documentatie en rapportage
 
 ### Tijdens de audit:
@@ -130,3 +187,54 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 ### Eindresultaat:
 
 Een helder overzicht van de status van online beveiliging, met concrete aanbevelingen om risico's te verminderen en de digitale aanwezigheid van het bedrijf te beschermen.
+
+---
+
+## Intern Security Audit Stappenplan voor KMO's
+
+In combinatie met de online en externe audits, zal de interne audit zich richten op netwerkbeveiliging, apparaten en software, back-ups en herstelplannen, en gebruikersbewustzijn.
+
+## Tijdsinvestering – Algemeen
+
+De totale tijdsinvestering voor het volledige beveiligingsauditplan hangt af van de omvang van de organisatie en de complexiteit van de systemen, maar de tijd kan als volgt worden verdeeld:
+
+### Online Audit (2,5 tot 4 uur)
+
+- **Beveiliging van online accounts**: 30-45 minuten
+- **Sociale media en reputatiebeheer**: 30 minuten
+- **Monitoring van online bedreigingen**: 30-45 minuten
+- **Online compliance en regelgeving**: 15-30 minuten
+- **Websites en online diensten**: 30 minuten
+- **Resultaatbespreking**: 30-45 minuten
+
+**Totale tijd voor Online Audit**: 2,5 tot 4 uur
+
+---
+
+### Externe Audit (1 tot 1,5 uur)
+
+- **Beveiliging van internetverbinding**: 15-20 minuten
+- **E-mail- en online communicatie**: 15-20 minuten
+- **Online diensten en cloudopslag**: 15-20 minuten
+- **Beveiliging van bedrijfswebsite**: 15-20 minuten
+- **Resultaatbespreking**: 15-20 minuten
+
+**Totale tijd voor Externe Audit**: 1 tot 1,5 uur
+
+---
+
+### Interne Audit (2 tot 3 uur)
+
+- **Netwerkbeveiliging**: 30-45 minuten
+- **Apparaten en Software**: 30-45 minuten
+- **Back-up en Herstel**: 30-45 minuten
+- **Gebruikersbewustzijn**: 30-45 minuten
+- **Rapportage en Verbetering**: 30-45 minuten
+
+**Totale tijd voor Interne Audit**: 2 tot 3 uur
+
+---
+
+### Totale Tijdsinvestering voor de Volledige Audit
+
+De totale tijdsinvestering voor het uitvoeren van het volledige auditplan bedraagt ongeveer **6,5 tot 8,5 uur**. Dit omvat de online, externe en interne auditdelen en de tijd voor resultaatbespreking en rapportage.
