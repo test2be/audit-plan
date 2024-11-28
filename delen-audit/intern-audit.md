@@ -1,127 +1,150 @@
-| Autheur  |
-|----------|
-| Gerben  |
+| **Auteur**  |  
+|-------------|  
+| Gerben      |  
 
 ### **Intern Security Audit Stappenplan voor KMO's**
 
-#### **1. Voorbereiding**
-1. **Doelstellingen bepalen**:  
-   - Focus op eenvoudige doelen zoals bescherming van klantgegevens en naleving van GDPR.
-   - Bepaal de scope: computers, netwerk en basis IT-documentatie.
+---
 
-2. **Inventarisatie van IT-assets**:  
-   - Breng alle apparaten in kaart (computers, printers, routers, etc.).
-   - Noteer gebruikte software, inclusief versies.
+#### **Doelstelling**
+Het interne deel van de audit is gericht op het controleren van de fysieke beveiliging, netwerken, apparaten en het bewustzijn van medewerkers binnen het bedrijf. Het doel is om te zorgen voor een basisbeveiliging die eenvoudig te begrijpen en te implementeren is voor kleine bedrijven met weinig technische kennis.
 
-3. **Medewerkers informeren**:  
-   - Laat medewerkers weten wat de audit inhoudt en vraag om hun medewerking.
+**Tijdsduur:** ongeveer 1,5 tot 2 uur  
 
 ---
 
-#### **2. Netwerkbeveiliging**
-1. **Routerinstellingen controleren**:  
-   - Controleer of het standaard wachtwoord is gewijzigd naar een sterk, uniek wachtwoord.  
-   - Zorg dat de routerfirmware up-to-date is.
+### **1. Fysieke beveiliging**
+**Tijdsduur:** 15-20 minuten  
 
-2. **Wi-Fi-beveiliging**:  
-   - Gebruik minimaal WPA2 (bij voorkeur WPA3).  
-   - Stel een sterk wachtwoord in voor het netwerk.  
-   - Overweeg het gebruik van een apart gastnetwerk voor bezoekers.
-
----
-
-#### **3. Apparaten en Software**
-1. **Computerbeveiliging**:  
-   - Controleer of antivirussoftware is geïnstalleerd en actief is.  
-   - Zorg dat automatische updates ingeschakeld zijn voor zowel besturingssystemen als software.
-
-2. **Wachtwoordbeheer**:  
-   - Adviseer medewerkers om sterke en unieke wachtwoorden te gebruiken.  
-   - Overweeg het gebruik van een wachtwoordmanager om wachtwoorden eenvoudig te beheren.
-
----
-
-#### **4. Back-up en Herstel**
-1. **Back-ups controleren**:  
-   - Zorg dat regelmatig back-ups worden gemaakt van belangrijke bestanden.  
-   - Controleer of back-ups getest worden en eenvoudig kunnen worden hersteld.
-
----
-
-#### **5. Gebruikersbewustzijn**
-1. **Training geven**:  
-   - Leer medewerkers hoe ze verdachte e-mails kunnen herkennen.  
-   - Leg uit waarom sterke wachtwoorden belangrijk zijn.
-
-2. **Phishing-testen**:  
-   - Simuleer eenvoudige phishing-e-mails om het bewustzijn te meten.  
-   - Gebruik de resultaten om verbeterpunten in training te identificeren.
-
----
-
-#### **6. Rapportage en Verbetering**
-1. **Bevindingen documenteren**:  
-   - Noteer risico's en kwetsbaarheden in begrijpelijke taal.  
-   - Bied eenvoudige adviezen voor verbetering, zoals het wijzigen van zwakke wachtwoorden of het activeren van automatische updates.
-
-2. **Acties ondernemen**:  
-   - Prioriteer snelle, eenvoudige oplossingen zoals het instellen van een sterk wachtwoord of het inschakelen van automatische updates.  
-   - Plan verbeteringen op lange termijn, zoals bewustzijnstraining of regelmatige audits.
-
----
-
-### **Extern Security Audit Stappenplan voor KMO's**
-
-#### **1. Internetverbinding**
 1. **Controlepunten**:  
-   - Is de Wi-Fi beveiligd met WPA2 of WPA3 en een sterk wachtwoord?  
-   - Heeft de router recente beveiligingsupdates?  
-   - Is toegang op afstand (remote access) uitgeschakeld als dit niet nodig is?  
+   - Is het kantoor goed afgesloten, zodat niemand zonder toestemming naar binnen kan?  
+   - Worden laptops en andere waardevolle apparaten veilig opgeborgen als ze niet worden gebruikt?  
+   - Zijn belangrijke documenten op een veilige plaats opgeslagen (bijv. in een lade of kast)?  
+   - Is er iemand verantwoordelijk voor het in de gaten houden van wie het kantoor binnenkomt en verlaat?  
 
-2. **Acties**:  
-   - Zorg dat de router een sterk beheerderswachtwoord heeft.  
-   - Controleer of een gastnetwerk wordt gebruikt voor bezoekers en privé-apparaten.
+2. **Te stellen vragen**:  
+   - Hoe wordt de toegang tot het kantoor geregeld (bijv. sleutel of code)?  
+   - Waar bewaar je je laptop en andere apparaten als je ze niet gebruikt?  
+   - Wat gebeurt er met oude computers of documenten die je niet meer nodig hebt?  
+
+3. **Acties**:  
+   - Zorg ervoor dat laptops altijd op een veilige plek worden opgeborgen, bijvoorbeeld met een kabelslot of in een afgesloten kast.  
+     *Verbindt met Lemma: PR.PT-4 (Protective Technology: Toepassing van fysieke beveiliging op apparatuur en netwerken)*
+
+   - Bewaar gevoelige documenten op een veilige plek.  
+     *Verbindt met Lemma: PR.DS-3 (Data Security: Fysieke en virtuele middelen worden beheerd bij verwijdering, overdracht en afstoting)*
+
+   - Zorg ervoor dat alleen bevoegde mensen toegang hebben tot het kantoor.  
+     *Verbindt met Lemma: PR.AC-1 (Identity Management and Access Control: Beheer van fysieke toegang tot gevoelige gebieden)*
 
 ---
 
-#### **2. E-mailbeveiliging**
+### **2. Interne netwerkbeveiliging**
+**Tijdsduur:** 20-25 minuten  
+
 1. **Controlepunten**:  
-   - Zijn zakelijke e-mailaccounts beschermd met sterke wachtwoorden en indien mogelijk 2FA?  
-   - Is het spamfilter actief en effectief?  
+   - Is het Wi-Fi-netwerk beveiligd met een sterk wachtwoord?  
+   - Is er een aparte Wi-Fi voor gasten en medewerkers?  
+   - Zijn de apparaten in het netwerk goed beschermd tegen virussen en andere bedreigingen?  
 
-2. **Acties**:  
-   - Adviseer medewerkers om regelmatig wachtwoorden te wijzigen.  
-   - Geef uitleg over het herkennen van phishing-e-mails.
+2. **Te stellen vragen**:  
+   - Is het Wi-Fi-wachtwoord moeilijk te raden?  
+   - Hebben gasten een eigen Wi-Fi-netwerk of delen zij de Wi-Fi van het bedrijf?  
+   - Hoe controleer je of apparaten op het netwerk veilig zijn?  
+
+3. **Acties**:  
+   - Stel een sterk wachtwoord in voor het Wi-Fi-netwerk en wijzig het regelmatig.  
+     *Verbindt met Lemma: PR.AC-3 (Identity Management and Access Control: Beheer van netwerkinstellingen, inclusief toegangspunten)*
+
+   - Zet een apart netwerk op voor gasten en andere apparaten die geen toegang hoeven tot bedrijfsgegevens.  
+     *Verbindt met Lemma: PR.AC-3 (Identity Management and Access Control: Isoleren van netwerken om toegang te beperken)*
+
+   - Zorg ervoor dat alle apparaten op het netwerk een virusscanner hebben en dat deze up-to-date is.  
+     *Verbindt met Lemma: PR.PT-1 (Protective Technology: Beveiliging van technologie via antivirussoftware en netwerkbeveiliging)*
 
 ---
 
-#### **3. Online Diensten**
+### **3. Beheer van apparaten**
+**Tijdsduur:** 20-25 minuten  
+
 1. **Controlepunten**:  
-   - Worden diensten zoals cloudopslag of boekhoudsoftware beveiligd met sterke wachtwoorden?  
-   - Zijn gevoelige gegevens goed beschermd en toegankelijk voor de juiste personen?  
+   - Worden apparaten zoals computers en telefoons regelmatig geüpdatet met de nieuwste software?  
+   - Zijn er regels voor het gebruik van persoonlijke apparaten (bijv. telefoon) voor werk?  
+   - Worden laptops versleuteld zodat ze niet kunnen worden gelezen als ze verloren gaan?  
 
-2. **Acties**:  
-   - Controleer de toegang tot cloudomgevingen en stel 2FA in waar mogelijk.  
-   - Adviseer regelmatig back-ups van belangrijke bestanden.
+2. **Te stellen vragen**:  
+   - Worden je apparaten automatisch bijgewerkt of moet je dit handmatig doen?  
+   - Gebruik je je eigen telefoon voor werk? Zo ja, hoe zorg je ervoor dat die veilig is?  
+   - Wat gebeurt er als je laptop verloren gaat of gestolen wordt?  
+
+3. **Acties**:  
+   - Zorg ervoor dat automatische updates ingeschakeld zijn voor alle apparaten (computers, telefoons).  
+     *Verbindt met Lemma: PR.IP-3 (Information Protection: Beheer van beveiligingspatches en updates)*
+
+   - Gebruik versleuteling voor apparaten zoals laptops, zodat gegevens niet toegankelijk zijn voor anderen.  
+     *Verbindt met Lemma: PR.DS-5 (Data Security: Versleuteling van gevoelige gegevens op apparaten)*
+
+   - Stel duidelijke regels op voor het gebruik van persoonlijke apparaten voor werk.  
+     *Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Toegangscontrole voor persoonlijke apparaten)*
 
 ---
 
-#### **4. Beveiliging van de Website**
+### **4. Gegevensbeveiliging**
+**Tijdsduur:** 20-25 minuten  
+
 1. **Controlepunten**:  
-   - Is de website beveiligd met een HTTPS-verbinding?  
-   - Wordt de website regelmatig bijgewerkt, inclusief plugins en thema's?  
+   - Worden belangrijke bestanden regelmatig geback-upt (bv. elke week)?  
+   - Hebben alleen de juiste mensen toegang tot belangrijke gegevens?  
+   - Worden gegevens versleuteld als ze opgeslagen of verzonden worden?  
 
-2. **Acties**:  
-   - Adviseer een SSL-certificaat indien nodig.  
-   - Zorg dat onderhoud aan de website periodiek plaatsvindt.
+2. **Te stellen vragen**:  
+   - Hoe vaak maak je een back-up van belangrijke bestanden?  
+   - Wie kan er bij de belangrijke gegevens binnen het bedrijf?  
+   - Hoe verstuur je vertrouwelijke informatie? Is deze versleuteld?  
+
+3. **Acties**:  
+   - Maak regelmatig back-ups van belangrijke bestanden (bijvoorbeeld wekelijks) en bewaar ze op een veilige plaats (bv. een externe harde schijf of in de cloud).  
+     *Verbindt met Lemma: PR.DS-1 (Data Security: Beveiliging van gegevens door back-ups en veilige opslag)*
+
+   - Zorg ervoor dat alleen medewerkers die toegang nodig hebben, bij gevoelige informatie kunnen.  
+     *Verbindt met Lemma: PR.AC-5 (Identity Management and Access Control: Minimum access rights en autorisatiebeheer)*
+
+   - Versleutel vertrouwelijke informatie bij verzending (bijvoorbeeld via e-mail) en bij opslag.  
+     *Verbindt met Lemma: PR.DS-5 (Data Security: Versleuteling van gegevens voor veilige overdracht)*
 
 ---
 
-#### **Rapportage en Verbetering**
-1. **Bevindingen documenteren**:  
-   - Noteer zwakke plekken zoals ontbrekende updates of eenvoudige wachtwoorden.  
-   - Stel een lijst op met verbeterpunten, gesorteerd op prioriteit.
+### **5. Personeel en bewustzijn**
+**Tijdsduur:** 15-20 minuten  
 
-2. **Actieplan opstellen**:  
-   - Richt acties op snelle, eenvoudige verbeteringen zoals 2FA en regelmatige updates.  
-   - Plan jaarlijkse audits om consistentie te garanderen.
+1. **Controlepunten**:  
+   - Weten medewerkers wat ze moeten doen als ze een verdachte e-mail of beveiligingsincident zien?  
+   - Worden medewerkers getraind in hoe ze sterke wachtwoorden moeten kiezen en phishing-e-mails moeten herkennen?  
+   - Is er een manier voor medewerkers om beveiligingsproblemen te melden?  
+
+2. **Te stellen vragen**:  
+   - Wat moet je doen als je een verdachte e-mail ontvangt?  
+   - Heb je ooit geleerd hoe je een sterk wachtwoord maakt?  
+   - Hoe meld je een probleem als je iets verdachts ziet op je computer of in je werk?  
+
+3. **Acties**:  
+   - Organiseer een eenvoudige training voor medewerkers over hoe ze phishing-e-mails kunnen herkennen en sterke wachtwoorden kunnen maken.  
+     *Verbindt met Lemma: PR.AT-1 (Awareness and Training: Trainingen en bewustwording voor medewerkers over beveiligingsrisico's)*
+
+   - Zorg ervoor dat medewerkers weten waar ze beveiligingsproblemen kunnen melden.  
+     *Verbindt met Lemma: DE.AE-2 (Anomalies and Events: Melding van beveiligingsincidenten door medewerkers)*
+
+---
+
+### **6. Documentatie en rapportage**
+**Tijdsduur:** 15-20 minuten  
+
+1. **Tijdens de audit**:  
+   - Noteer bevindingen per sectie en maak onderscheid tussen belangrijke risico's en minder urgente problemen.  
+   - Schrijf alles duidelijk op, zodat medewerkers de bevindingen makkelijk kunnen begrijpen en actie kunnen ondernemen.  
+
+2. **Eindrapport**:  
+   - Maak een eenvoudig rapport met duidelijke verbeterpunten.  
+   - Geef korte adviezen over wat het bedrijf direct kan doen om de beveiliging te verbeteren.  
+
+---

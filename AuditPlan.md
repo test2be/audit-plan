@@ -1,240 +1,298 @@
-| Autheur |        |        |
-| ------- | ------ | ------ |
-| Tristan | Yenthe | Gerben |
+**Beveiligingsauditplan**
 
-# Beveiligingsaudit Plan – Volledig
-
-## Doelstelling
-
-Het beveiligingsauditplan richt zich op het beoordelen van de algehele beveiliging van de organisatie, met specifieke focus op online aanwezigheid, externe communicatiekanalen, en interne systemen. Dit de bescherming van accounts, netwerken, apparaten, cloudopslag, en de naleving van wetgeving en regelgeving.
+**Doelstelling**  
+Het doel van deze audit is om de beveiliging van een klein bedrijf te beoordelen, met de focus op interne, externe en online beveiliging. De audit is verdeeld in drie secties: intern, extern en online, die allemaal een overzicht geven van de belangrijkste controles en vragen die moeten worden gesteld.
 
 ---
 
-## 1. Beveiliging van online accounts
+**1. Intern Deel**
 
-### Controlepunten:
+**Doelstelling**  
+Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, apparaten en het bewustzijn van medewerkers binnen het bedrijf.
 
-- Worden alle bedrijfsaccounts (e-mail, sociale media, cloud, etc.) beveiligd met sterke wachtwoorden en multi-factor authentication (MFA)?
-- Zijn gebruikersrollen en toegangsrechten goed ingesteld op online platforms?
-- Wordt gebruik gemaakt van wachtwoordmanagers om accounts te beheren?
-- Worden accounts van voormalige medewerkers onmiddellijk verwijderd of gedeactiveerd?
+**Tijdsduur:** 1,5 tot 2 uur
 
-### Te stellen vragen:
+**1.1 Fysieke Beveiliging**  
+**Tijdsduur:** 15-20 minuten
 
-1. Hoe worden wachtwoorden beheerd voor bedrijfsaccounts?
-2. Welke stappen worden genomen om onbevoegde toegang tot accounts te voorkomen?
-3. Hoe wordt toegang tot gevoelige online diensten (bijv. boekhoudsoftware, CRM-systemen) beheerd?
+Controlepunten:
 
----
+- Is het kantoor goed afgesloten?
+- Worden apparaten zoals laptops veilig opgeborgen als ze niet worden gebruikt?
+- Zijn belangrijke documenten goed bewaard?
 
-## 2. Sociale media en reputatiebeheer
+Te stellen vragen:
 
-### Controlepunten:
+- Hoe voorkom je dat iemand zonder toestemming het kantoor in komt?
+- Waar leg je je laptop of waardevolle spullen neer als je ze niet gebruikt?
+- Waar bewaar je documenten die belangrijk zijn?
 
-- Worden bedrijfsaccounts op sociale media regelmatig gecontroleerd op verdachte activiteit?
-- Zijn sociale media accounts beveiligd met sterke wachtwoorden en MFA (multi-factor authentication)?
-- Is er een beleid voor wat medewerkers wel en niet mogen posten op sociale media met betrekking tot het bedrijf?
-- Wordt er gemonitord welke informatie over het bedrijf publiekelijk beschikbaar is via sociale media?
+Acties:
 
-### Te stellen vragen:
-
-1. Wie beheert de sociale media accounts van het bedrijf?
-2. Hoe wordt ongeautoriseerde toegang tot deze accounts voorkomen?
-3. Wat is het proces als een account wordt gehackt of ongewenste content wordt geplaatst?
+- Zorg ervoor dat laptops altijd veilig opgeborgen worden.
+- Bewaar belangrijke documenten op een veilige plek.
+- Zorg ervoor dat alleen de juiste mensen toegang hebben tot het kantoor.
 
 ---
 
-## 3. Monitoring van online bedreigingen
+**1.2 Interne Netwerkbeveiliging**  
+**Tijdsduur:** 20-25 minuten
 
-### Controlepunten:
+Controlepunten:
 
-- Wordt er gebruik gemaakt van tools om bedreigingen zoals phishing-domeinen, valse accounts of datalekken te monitoren?
-- Wordt de aanwezigheid van bedrijfsgegevens op het dark web gecontroleerd?
-- Worden medewerkers getraind om verdachte e-mails, websites of links te herkennen?
-- Zijn er meldprocedures ingesteld voor online incidenten zoals phishing of impersonatie?
+- Is je Wi-Fi-netwerk veilig met een sterk wachtwoord?
+- Hebben gasten een apart Wi-Fi-netwerk?
 
-### Te stellen vragen:
+Te stellen vragen:
 
-1. Welke tools of diensten worden gebruikt om online bedreigingen te monitoren?
-2. Hoe worden verdachte activiteiten, zoals pogingen tot phishing, aangepakt?
-3. Worden medewerkers regelmatig geïnformeerd over actuele online bedreigingen?
+- Hoe sterk is je Wi-Fi-wachtwoord?
+- Heb je een apart netwerk voor gasten, of gebruiken ze jouw netwerk?
 
----
+Acties:
 
-## 4. Online compliance en regelgeving
-
-### Controlepunten:
-
-- Voldoen alle online diensten en accounts aan relevante privacy- en beveiligingswetgeving, zoals de AVG (GDPR)?
-- Wordt er een verwerkersovereenkomst gesloten met online dienstverleners?
-- Zijn cookies en trackingtools op de website correct ingesteld en in lijn met de regelgeving?
-
-### Te stellen vragen:
-
-1. Hoe wordt ervoor gezorgd dat online diensten voldoen aan regelgeving zoals de AVG?
-2. Hoe worden bezoekers van de website geïnformeerd over het gebruik van cookies?
-3. Worden online diensten periodiek geëvalueerd op naleving van beveiligingsnormen?
+- Zet een sterk wachtwoord in voor je Wi-Fi.
+- Maak een apart netwerk voor gasten.
 
 ---
 
-## 5. Back-ups en herstelplannen
+**1.3 Beheer van Apparaten**  
+**Tijdsduur:** 20-25 minuten
 
-### Controlepunten:
+Controlepunten:
 
-- Worden gegevens van online diensten regelmatig geback-upt?
-- Zijn back-ups versleuteld en opgeslagen op een veilige locatie?
-- Is er een herstelplan in geval van dataverlies of een aanval op online systemen?
-- Worden back-ups getest om zeker te zijn dat ze werken?
+- Worden apparaten zoals computers en telefoons regelmatig geüpdatet?
+- Hebben laptops een versleuteling zodat je gegevens veilig zijn als je je laptop verliest?
 
-### Te stellen vragen:
+Te stellen vragen:
 
-1. Waar worden back-ups van online gegevens opgeslagen?
-2. Hoe vaak worden back-ups gemaakt en gecontroleerd?
-3. Wat is het proces om gegevens te herstellen na een incident?
+- Heb je automatische updates ingesteld voor je apparaten?
+- Wat gebeurt er als je laptop verloren gaat of gestolen wordt?
 
----
+Acties:
 
-## 6. Beveiliging van websites en online diensten
-
-### Controlepunten:
-
-- Wordt de website regelmatig gecontroleerd op kwetsbaarheden (bijv. scans voor malware of kwetsbaarheden in CMS)?
-- Is er een beleid voor het beheren van toegangsrechten tot de website en hostingplatforms?
-- Wordt er gebruik gemaakt van CDN’s (Content Delivery Networks) en DDoS-bescherming?
-- Zijn API’s en andere online diensten goed beveiligd tegen ongeautoriseerde toegang?
-
-### Te stellen vragen:
-
-1. Wie is verantwoordelijk voor het onderhoud van de website en andere online diensten?
-2. Hoe worden beveiligingsupdates en patches geïmplementeerd?
-3. Worden er regelmatig scans uitgevoerd om kwetsbaarheden te identificeren?
+- Zorg ervoor dat automatische updates zijn ingeschakeld.
+- Zet versleuteling aan voor je laptops en apparaten.
 
 ---
 
-## 7. Beveiliging van internetverbinding
+**1.4 Gegevensbeveiliging**  
+**Tijdsduur:** 20-25 minuten
 
-### Controlepunten:
+Controlepunten:
 
-- Is het Wi-Fi-netwerk beveiligd met een sterk wachtwoord en WPA3 (of WPA2) encryptie?
-- Heeft de router recente beveiligingsupdates (firmware)?
-- Is remote toegang tot de router en andere systemen uitgeschakeld als dit niet nodig is?
-- Wordt er een gastnetwerk gebruikt voor bezoekers en privé-apparaten?
+- Maak je regelmatig back-ups van belangrijke bestanden?
+- Hebben alleen de juiste mensen toegang tot gevoelige gegevens?
 
-### Te stellen vragen:
+Te stellen vragen:
 
-1. Hoe is het Wi-Fi-netwerk ingesteld? (Vraag om het wachtwoord te controleren op sterkte.)
-2. Wie beheert de router en voert updates uit?
-3. Wordt het netwerk regelmatig gecontroleerd op vreemde apparaten?
+- Hoe vaak maak je een back-up van belangrijke documenten?
+- Wie kan er bij jouw belangrijke gegevens?
 
----
+Acties:
 
-## 8. E-mail- en online communicatie
-
-### Controlepunten:
-
-- Worden zakelijke e-mailaccounts beschermd met sterke wachtwoorden en indien mogelijk twee-staps-verificatie (2FA)?
-- Is het spamfilter ingeschakeld om phishing-aanvallen te verminderen?
-- Wordt gevoelige informatie nooit gedeeld via onbeveiligde e-mails of berichten?
-
-### Te stellen vragen:
-
-1. Hoe vaak worden wachtwoorden van e-mailaccounts gewijzigd?
-2. Hoe herkennen medewerkers verdachte e-mails?
-3. Wordt er gebruik gemaakt van een professioneel e-maildomein (bijv. naam@bedrijf.nl)?
+- Maak regelmatig back-ups van belangrijke bestanden.
+- Zorg ervoor dat alleen de juiste mensen toegang hebben tot vertrouwelijke gegevens.
 
 ---
 
-## 9. Online diensten en cloudopslag
+**1.5 Personeel en Bewustzijn**  
+**Tijdsduur:** 15-20 minuten
 
-### Controlepunten:
+Controlepunten:
 
-- Worden online diensten zoals boekhoudsoftware, agenda’s of cloudopslag beveiligd met sterke wachtwoorden en tweefactorauthenticatie?
-- Is toegang tot gevoelige gegevens beperkt tot de juiste personen?
-- Worden gevoelige gegevens opgeslagen in beveiligde cloudomgevingen (bijv. OneDrive, Google Drive met beveiligingsopties)?
+- Weten medewerkers wat ze moeten doen bij verdachte e-mails of beveiligingsincidenten?
+- Hebben medewerkers geleerd hoe ze sterke wachtwoorden kunnen maken?
 
-### Te stellen vragen:
+Te stellen vragen:
 
-1. Welke online diensten gebruikt het bedrijf dagelijks?
-2. Worden regelmatig back-ups gemaakt van belangrijke bestanden?
-3. Wie heeft toegang tot gedeelde documenten of mappen in de cloud?
+- Wat doe je als je een verdachte e-mail ontvangt?
+- Weet je hoe je een sterk wachtwoord kiest?
 
----
+Acties:
 
-## 10. Beveiliging van bedrijfswebsite
-
-### Controlepunten:
-
-- Is de website beveiligd met een HTTPS-verbinding (SSL-certificaat)?
-- Wordt de website regelmatig bijgewerkt, inclusief eventuele plugins en thema's?
-- Heeft de website een contactformulier of andere functies die beveiligd moeten worden tegen spam of misbruik?
-
-### Te stellen vragen:
-
-1. Wie beheert de website en implementeert updates?
-2. Wordt er regelmatig gecontroleerd op verdachte activiteiten of hacks?
-3. Hoe wordt klantinformatie die via de website binnenkomt, beschermd?
+- Zorg ervoor dat medewerkers weten wat te doen bij verdachte e-mails.
+- Geef medewerkers training over sterke wachtwoorden. (Leg uit wat een sterk wachtwoord is)
 
 ---
 
-## Documentatie en rapportage
+**2. Extern Deel**
 
-### Tijdens de audit:
+**Doelstelling**  
+Het externe deel van de audit richt zich op de beveiliging van externe verbindingen, zoals internet, online diensten en communicatiekanalen.
 
-- Noteer bevindingen per sectie, inclusief zwakke plekken en risico’s voor de online aanwezigheid.
-- Identificeer prioriteiten, zoals het implementeren van MFA (mutli-factor authentication), verbeteren van monitoring, of naleving van regelgeving.
-- Adviseer over korte- en langetermijnoplossingen om online beveiliging te versterken.
+**Tijdsduur:** 1 tot 1,5 uur
 
-### Eindresultaat:
+**2.1 Beveiliging van Internetverbinding**  
+**Tijdsduur:** 15-20 minuten
 
-Een helder overzicht van de status van online beveiliging, met concrete aanbevelingen om risico's te verminderen en de digitale aanwezigheid van het bedrijf te beschermen.
+Controlepunten:
 
----
+- Is je Wi-Fi-netwerk veilig ingesteld?
+- Is de router goed beveiligd en geüpdatet?
 
-## Intern Security Audit Stappenplan voor KMO's
+Te stellen vragen:
 
-In combinatie met de online en externe audits, zal de interne audit zich richten op netwerkbeveiliging, apparaten en software, back-ups en herstelplannen, en gebruikersbewustzijn.
+- Hoe zorg je ervoor dat je Wi-Fi goed beveiligd is?
+- Wie zorgt ervoor dat de router altijd up-to-date is?
 
-## Tijdsinvestering – Algemeen
+Acties:
 
-De totale tijdsinvestering voor het volledige beveiligingsauditplan hangt af van de omvang van de organisatie en de complexiteit van de systemen, maar de tijd kan als volgt worden verdeeld:
-
-### Online Audit (2,5 tot 4 uur)
-
-- **Beveiliging van online accounts**: 30-45 minuten
-- **Sociale media en reputatiebeheer**: 30 minuten
-- **Monitoring van online bedreigingen**: 30-45 minuten
-- **Online compliance en regelgeving**: 15-30 minuten
-- **Websites en online diensten**: 30 minuten
-- **Resultaatbespreking**: 30-45 minuten
-
-**Totale tijd voor Online Audit**: 2,5 tot 4 uur
+- Zet een sterk wachtwoord voor je Wi-Fi-netwerk.
+- Zorg ervoor dat de router altijd up-to-date is.
 
 ---
 
-### Externe Audit (1 tot 1,5 uur)
+**2.2 E-mail- en Online Communicatie**  
+**Tijdsduur:** 15-20 minuten
 
-- **Beveiliging van internetverbinding**: 15-20 minuten
-- **E-mail- en online communicatie**: 15-20 minuten
-- **Online diensten en cloudopslag**: 15-20 minuten
-- **Beveiliging van bedrijfswebsite**: 15-20 minuten
-- **Resultaatbespreking**: 15-20 minuten
+Controlepunten:
 
-**Totale tijd voor Externe Audit**: 1 tot 1,5 uur
+- Wordt e-mailbeveiliging geregeld met sterke wachtwoorden en, indien mogelijk, tweefactorauthenticatie (2FA)?
+- Heb je een spamfilter aan staan om phishing-aanvallen te blokkeren?
 
----
+Te stellen vragen:
 
-### Interne Audit (2 tot 3 uur)
+- Hoe zorg je ervoor dat je e-mailaccounts goed beveiligd zijn?
+- Hoe voorkom je dat je per ongeluk op een nep-link in een e-mail klikt?
 
-- **Netwerkbeveiliging**: 30-45 minuten
-- **Apparaten en Software**: 30-45 minuten
-- **Back-up en Herstel**: 30-45 minuten
-- **Gebruikersbewustzijn**: 30-45 minuten
-- **Rapportage en Verbetering**: 30-45 minuten
+Acties:
 
-**Totale tijd voor Interne Audit**: 2 tot 3 uur
+- Zet 2FA in voor e-mailaccounts als dat mogelijk is.
+- Gebruik een spamfilter om verdachte e-mails te blokkeren.
 
 ---
 
-### Totale Tijdsinvestering voor de Volledige Audit
+**2.3 Online Diensten en Cloudopslag**  
+**Tijdsduur:** 15-20 minuten
 
-De totale tijdsinvestering voor het uitvoeren van het volledige auditplan bedraagt ongeveer **6,5 tot 8,5 uur**. Dit omvat de online, externe en interne auditdelen en de tijd voor resultaatbespreking en rapportage.
+Controlepunten:
+
+- Worden online diensten zoals cloudopslag beveiligd met een sterk wachtwoord?
+- Zijn de gegevens goed beschermd als ze in de cloud staan?
+
+Te stellen vragen:
+
+- Hoe zorg je ervoor dat je bestanden veilig zijn in de cloud?
+- Wie heeft toegang tot je gedeelde documenten online?
+
+Acties:
+
+- Zet een sterk wachtwoord in voor cloudopslag.
+- Controleer regelmatig wie toegang heeft tot je gedeelde documenten.
+
+---
+
+**2.4 Beveiliging van Bedrijfswebsite**  
+**Tijdsduur:** 15-20 minuten
+
+Controlepunten:
+
+- Heeft je website een beveiligde verbinding (HTTPS)?
+- Wordt je website regelmatig geüpdatet?
+
+Te stellen vragen:
+
+- Is je website beveiligd met een slotje (HTTPS)?
+- Wordt je website regelmatig gecontroleerd en bijgewerkt?
+
+Acties:
+
+- Zorg voor HTTPS-beveiliging op je website.
+- Werk je website regelmatig bij.
+
+---
+
+**3. Online Deel**
+
+**Doelstelling**  
+Het online deel van de audit richt zich op het beoordelen van de beveiliging van digitale aanwezigheid en accounts, en de monitoring van online bedreigingen.
+
+**Tijdsduur:** 2,5 tot 4 uur
+
+**3.1 Beveiliging van Online Accounts**  
+**Tijdsduur:** 30-45 minuten
+
+Controlepunten:
+
+- Worden alle bedrijfsaccounts beveiligd met sterke wachtwoorden en eventueel tweefactorauthenticatie (MFA)?
+- Zijn de toegangsmogelijkheden tot online accounts goed ingesteld?
+
+Te stellen vragen:
+
+- Gebruik je een sterk wachtwoord voor je online accounts?
+- Zet je tweefactorauthenticatie in voor belangrijke accounts?
+
+Acties:
+
+- Zet tweefactorauthenticatie in voor belangrijke accounts.
+- Gebruik sterke wachtwoorden voor al je online accounts.
+
+---
+
+**3.2 Sociale Media en Reputatiebeheer**  
+**Tijdsduur:** 30 minuten
+
+Controlepunten:
+
+- Zijn sociale media-accounts beveiligd met sterke wachtwoorden en 2FA?
+- Worden sociale media regelmatig gecontroleerd op verdachte activiteit?
+
+Te stellen vragen:
+
+- Wie heeft toegang tot de sociale media-accounts van je bedrijf?
+- Hoe zorg je ervoor dat je sociale media veilig blijven?
+
+Acties:
+
+- Zet 2FA in voor sociale media-accounts.
+- Controleer regelmatig je sociale media-accounts op verdachte activiteiten.
+
+---
+
+**3.3 Monitoring van Online Bedreigingen**  
+**Tijdsduur:** 30-45 minuten
+
+Controlepunten:
+
+- Worden online bedreigingen zoals phishing-aanvallen en hacks gemonitord?
+
+Te stellen vragen:
+
+- Hoe houd je online bedreigingen in de gaten, zoals phishing of hacks?
+- Wat doe je als je iets verdachts ziet online?
+
+Acties:
+
+- Zet tools in om online bedreigingen te monitoren.
+- Wees alert op verdachte e-mails en activiteiten online.
+
+---
+
+**3.4 Online Compliance en Regelgeving**  
+**Tijdsduur:** 15-30 minuten
+
+Controlepunten:
+
+- Voldoet het bedrijf aan de privacywetgeving, zoals de AVG (GDPR)?
+
+Te stellen vragen:
+
+- Hoe zorg je ervoor dat klantgegevens veilig worden bewaard?
+- Volg je de regels voor privacy zoals de AVG?
+
+Acties:
+
+- Zorg ervoor dat je voldoet aan de privacywetgeving (zoals de AVG). Als men ook niet weet wat bijvoorbeeld AVG is, leg je dit ook uit.
+- Stel duidelijke regels in voor het omgaan met klantgegevens.
+
+---
+
+**Conclusie en Rapportage**
+
+- **Tijdens de audit:** Noteer bevindingen en risico's, markeer prioriteiten en geef duidelijke aanbevelingen.
+- **Eindrapport:** Lever een eenvoudig rapport met concrete stappen voor het verbeteren van de beveiliging, zowel intern, extern als online.
+
+---
+
+**Resultaat:**  
+Een overzicht van de beveiligingsstatus van het bedrijf, met duidelijke aanbevelingen voor verbetering van de beveiliging in interne, externe en online systemen.
