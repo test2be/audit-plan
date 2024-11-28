@@ -1,127 +1,107 @@
-| Autheur  |
-|----------|
-| Gerben  |
+| **Auteur**  |  
+|-------------|  
+| Gerben      |  
 
 ### **Intern Security Audit Stappenplan voor KMO's**
 
-#### **1. Voorbereiding**
-1. **Doelstellingen bepalen**:  
-   - Focus op eenvoudige doelen zoals bescherming van klantgegevens en naleving van GDPR.
-   - Bepaal de scope: computers, netwerk en basis IT-documentatie.
-
-2. **Inventarisatie van IT-assets**:  
-   - Breng alle apparaten in kaart (computers, printers, routers, etc.).
-   - Noteer gebruikte software, inclusief versies.
-
-3. **Medewerkers informeren**:  
-   - Laat medewerkers weten wat de audit inhoudt en vraag om hun medewerking.
-
 ---
 
-#### **2. Netwerkbeveiliging**
-1. **Routerinstellingen controleren**:  
-   - Controleer of het standaard wachtwoord is gewijzigd naar een sterk, uniek wachtwoord.  
-   - Zorg dat de routerfirmware up-to-date is.
-
-2. **Wi-Fi-beveiliging**:  
-   - Gebruik minimaal WPA2 (bij voorkeur WPA3).  
-   - Stel een sterk wachtwoord in voor het netwerk.  
-   - Overweeg het gebruik van een apart gastnetwerk voor bezoekers.
+### **Totaal benodigde tijd**
+De externe audit duurt in totaal **ongeveer 1 tot 1,5 uur**, afhankelijk van het aantal gebruikte systemen en de complexiteit van de website en online diensten.
 
 ---
-
-#### **3. Apparaten en Software**
-1. **Computerbeveiliging**:  
-   - Controleer of antivirussoftware is geïnstalleerd en actief is.  
-   - Zorg dat automatische updates ingeschakeld zijn voor zowel besturingssystemen als software.
-
-2. **Wachtwoordbeheer**:  
-   - Adviseer medewerkers om sterke en unieke wachtwoorden te gebruiken.  
-   - Overweeg het gebruik van een wachtwoordmanager om wachtwoorden eenvoudig te beheren.
-
----
-
-#### **4. Back-up en Herstel**
-1. **Back-ups controleren**:  
-   - Zorg dat regelmatig back-ups worden gemaakt van belangrijke bestanden.  
-   - Controleer of back-ups getest worden en eenvoudig kunnen worden hersteld.
-
----
-
-#### **5. Gebruikersbewustzijn**
-1. **Training geven**:  
-   - Leer medewerkers hoe ze verdachte e-mails kunnen herkennen.  
-   - Leg uit waarom sterke wachtwoorden belangrijk zijn.
-
-2. **Phishing-testen**:  
-   - Simuleer eenvoudige phishing-e-mails om het bewustzijn te meten.  
-   - Gebruik de resultaten om verbeterpunten in training te identificeren.
-
----
-
-#### **6. Rapportage en Verbetering**
-1. **Bevindingen documenteren**:  
-   - Noteer risico's en kwetsbaarheden in begrijpelijke taal.  
-   - Bied eenvoudige adviezen voor verbetering, zoals het wijzigen van zwakke wachtwoorden of het activeren van automatische updates.
-
-2. **Acties ondernemen**:  
-   - Prioriteer snelle, eenvoudige oplossingen zoals het instellen van een sterk wachtwoord of het inschakelen van automatische updates.  
-   - Plan verbeteringen op lange termijn, zoals bewustzijnstraining of regelmatige audits.
-
----
-
-### **Extern Security Audit Stappenplan voor KMO's**
 
 #### **1. Internetverbinding**
-1. **Controlepunten**:  
-   - Is de Wi-Fi beveiligd met WPA2 of WPA3 en een sterk wachtwoord?  
-   - Heeft de router recente beveiligingsupdates?  
-   - Is toegang op afstand (remote access) uitgeschakeld als dit niet nodig is?  
+**Tijdsduur:** 15-20 minuten  
 
-2. **Acties**:  
-   - Zorg dat de router een sterk beheerderswachtwoord heeft.  
-   - Controleer of een gastnetwerk wordt gebruikt voor bezoekers en privé-apparaten.
+1. **Controlepunten**:  
+   - Is het Wi-Fi-netwerk beveiligd met een sterk wachtwoord?  
+   - Wordt er WPA2 of WPA3 gebruikt voor de Wi-Fi-beveiliging?  
+   - Is de router up-to-date (heeft de laatste updates)?  
+   - Wordt een gastnetwerk gebruikt voor bezoekers of privé-apparaten?  
+
+2. **Te stellen vragen**:  
+   - Heeft het Wi-Fi-netwerk een wachtwoord? Is het makkelijk te raden?  
+   - Wanneer is de router voor het laatst gecontroleerd of geüpdatet?  
+   - Hebben bezoekers of andere apparaten toegang tot hetzelfde netwerk als de bedrijfsapparaten?  
+
+3. **Acties**:  
+   - Controleer of het Wi-Fi-wachtwoord sterk is en pas dit aan indien nodig.  
+   - Stel een apart gastnetwerk in voor bezoekers en privé-apparaten.  
+   - Controleer de routerinstellingen en update de software indien nodig.  
 
 ---
 
 #### **2. E-mailbeveiliging**
-1. **Controlepunten**:  
-   - Zijn zakelijke e-mailaccounts beschermd met sterke wachtwoorden en indien mogelijk 2FA?  
-   - Is het spamfilter actief en effectief?  
+**Tijdsduur:** 10-15 minuten  
 
-2. **Acties**:  
-   - Adviseer medewerkers om regelmatig wachtwoorden te wijzigen.  
-   - Geef uitleg over het herkennen van phishing-e-mails.
+1. **Controlepunten**:  
+   - Zijn e-mailwachtwoorden sterk en uniek?  
+   - Wordt twee-staps-verificatie (2FA) gebruikt voor e-mails?  
+   - Is het spamfilter ingeschakeld en actief?  
+   - Worden verdachte e-mails herkend en niet geopend?  
+
+2. **Te stellen vragen**:  
+   - Is het e-mailwachtwoord voor iedereen anders of gebruiken meerdere mensen hetzelfde?  
+   - Wat doe je als je een e-mail krijgt die je niet vertrouwt?  
+   - Heb je wel eens phishing-e-mails ontvangen?  
+
+3. **Acties**:  
+   - Adviseer een sterk wachtwoord voor e-mails en het gebruik van 2FA.  
+   - Geef eenvoudige tips om phishing-e-mails te herkennen, zoals controleren van het afzenderadres.  
+   - Controleer of spamfilters actief zijn en pas ze indien nodig aan.  
 
 ---
 
-#### **3. Online Diensten**
-1. **Controlepunten**:  
-   - Worden diensten zoals cloudopslag of boekhoudsoftware beveiligd met sterke wachtwoorden?  
-   - Zijn gevoelige gegevens goed beschermd en toegankelijk voor de juiste personen?  
+#### **3. Online diensten en cloudopslag**
+**Tijdsduur:** 15-20 minuten  
 
-2. **Acties**:  
-   - Controleer de toegang tot cloudomgevingen en stel 2FA in waar mogelijk.  
-   - Adviseer regelmatig back-ups van belangrijke bestanden.
+1. **Controlepunten**:  
+   - Worden online diensten, zoals cloudopslag of boekhoudsoftware, beschermd met sterke wachtwoorden?  
+   - Zijn belangrijke bestanden goed beveiligd en alleen toegankelijk voor de juiste personen?  
+   - Worden belangrijke bestanden regelmatig geback-upt?  
+
+2. **Te stellen vragen**:  
+   - Welke programma’s of diensten gebruik je voor het opslaan van bestanden (bijv. Google Drive, OneDrive)?  
+   - Wie heeft toegang tot deze diensten of bestanden?  
+   - Worden bestanden ergens opgeslagen buiten de cloud, zoals op een externe harde schijf?  
+
+3. **Acties**:  
+   - Controleer en stel sterke wachtwoorden in voor online diensten.  
+   - Adviseer regelmatig back-ups van belangrijke bestanden, zowel lokaal als in de cloud.  
+   - Controleer of gevoelige bestanden alleen toegankelijk zijn voor degenen die deze echt nodig hebben.  
 
 ---
 
-#### **4. Beveiliging van de Website**
-1. **Controlepunten**:  
-   - Is de website beveiligd met een HTTPS-verbinding?  
-   - Wordt de website regelmatig bijgewerkt, inclusief plugins en thema's?  
+#### **4. Beveiliging van de bedrijfswebsite**
+**Tijdsduur:** 10-15 minuten  
 
-2. **Acties**:  
-   - Adviseer een SSL-certificaat indien nodig.  
-   - Zorg dat onderhoud aan de website periodiek plaatsvindt.
+1. **Controlepunten**:  
+   - Heeft de website een HTTPS-verbinding (slotje in de adresbalk)?  
+   - Wordt de website regelmatig bijgewerkt (CMS, plugins, thema’s)?  
+   - Wordt klantinformatie via de website veilig verwerkt?  
+
+2. **Te stellen vragen**:  
+   - Heeft de website een slotje in de adresbalk?  
+   - Wanneer is de website voor het laatst gecontroleerd of bijgewerkt?  
+   - Waar worden gegevens opgeslagen die klanten via de website versturen (bijvoorbeeld via een formulier)?  
+
+3. **Acties**:  
+   - Adviseer een SSL-certificaat voor een veilige HTTPS-verbinding indien dit ontbreekt.  
+   - Zorg dat het CMS en eventuele plugins altijd up-to-date zijn.  
+   - Controleer of klantinformatie goed wordt beschermd en veilig wordt opgeslagen.  
 
 ---
 
 #### **Rapportage en Verbetering**
 1. **Bevindingen documenteren**:  
-   - Noteer zwakke plekken zoals ontbrekende updates of eenvoudige wachtwoorden.  
-   - Stel een lijst op met verbeterpunten, gesorteerd op prioriteit.
+   - Noteer eenvoudige verbeterpunten zoals zwakke wachtwoorden, verouderde routers of een ontbrekend HTTPS-certificaat.  
+   - Gebruik duidelijke taal en geef korte uitleg over waarom verbeteringen nodig zijn.  
 
 2. **Actieplan opstellen**:  
-   - Richt acties op snelle, eenvoudige verbeteringen zoals 2FA en regelmatige updates.  
-   - Plan jaarlijkse audits om consistentie te garanderen.
+   - Begin met eenvoudige, snelle verbeteringen zoals wachtwoordupdates of het instellen van een gastnetwerk.  
+   - Stel voor om jaarlijks een audit te doen om beveiliging up-to-date te houden.  
+
+---
+
+
