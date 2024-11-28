@@ -6,7 +6,7 @@
 
 ## Doelstelling
 
-Het beveiligingsauditplan richt zich op het beoordelen van de algehele beveiliging van de organisatie, met specifieke focus op online aanwezigheid, externe communicatiekanalen, en interne systemen. Dit omvat de bescherming van accounts, netwerken, apparaten, cloudopslag, en de naleving van wetgeving en regelgeving.
+Het beveiligingsauditplan richt zich op het beoordelen van de algehele beveiliging van de organisatie, met specifieke focus op online aanwezigheid, externe communicatiekanalen, en interne systemen. Dit de bescherming van accounts, netwerken, apparaten, cloudopslag, en de naleving van wetgeving en regelgeving.
 
 ---
 
