@@ -70,6 +70,3 @@ Dit plan is ontworpen voor kleine bedrijven die geen uitgebreide IT-afdeling heb
 
 Nee, gebruik de delen die relevant zijn voor het bedrijf dat wordt beoordeeld. Sommige bedrijven hebben bijvoorbeeld geen uitgebreide digitale aanwezigheid en hoeven het online-gedeelte niet te gebruiken.
 
-### 3. Wat gebeurt er na een audit?
-
-Na de audit ontvang je een rapport met aanbevelingen. Het is belangrijk dat het bedrijf actie onderneemt op de kritieke punten die worden benoemd.
