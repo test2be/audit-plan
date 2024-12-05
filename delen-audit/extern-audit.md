@@ -10,6 +10,8 @@ De externe audit duurt ongeveer **1 tot 1,5 uur**. Dit omvat een korte controle 
 
 ---
 
+## Vraag achter de domein naam van het bedrijf en noteer deze
+
 ## 1. Beveiliging van internetverbinding (15-20 minuten)
 
 ### Controlepunten:
