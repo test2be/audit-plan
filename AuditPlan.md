@@ -99,12 +99,12 @@ Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, a
 - Stel duidelijke regels op voor het gebruik van persoonlijke apparaten voor werk.  
   _Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Toegangscontrole voor persoonlijke apparaten)_
 - Segmenteer het interne netwerk zodat kritieke systemen gescheiden zijn van andere systemen.
-  _Verbindt met Lemma: PR.AC-11: Where appropriate, network integrity of the organization's critical systems shall be protected by incorporating network segmentation and segregation_
+  _Verbindt met Lemma: PR.AC-11 (Where appropriate, network integrity of the organization's critical systems shall be protected by incorporating network segmentation and segregation)_
 - Stel monitoring in op interne netwerken en activeer logboeken voor verdachte activiteiten.
-  _Verbindt met Lemma: DE.CM-4: The network is monitored to detect potential cybersecurity events_
+  _Verbindt met Lemma: DE.CM-4 (The network is monitored to detect potential cybersecurity events)_
 - Zorg voor centraal beheer bv. Intune.
-  _Verbindt met Lemma: PR.AC-1: Identities and credentials are issued, managed, verified, revoked, and audited 
-for authorized devices, users, and processes._
+  _Verbindt met Lemma: PR.AC-1 (Identities and credentials are issued, managed, verified, revoked, and audited 
+for authorized devices, users, and processes)._
 
 ---
 
@@ -119,7 +119,7 @@ for authorized devices, users, and processes._
 
 **Te stellen vragen:**
 
-- Hoe vaak maak je een back-up van belangrijke documenten?
+- Hoe vaak maak je een back-up van belangrijke documenten? (Bereken RTO,RPO, retentie)
 - Wie kan er bij jouw belangrijke gegevens?
 
 **Acties:**
@@ -131,7 +131,7 @@ for authorized devices, users, and processes._
 - Versleutel vertrouwelijke informatie bij verzending (bijvoorbeeld via e-mail) en bij opslag.  
    _Verbindt met Lemma: PR.DS-5 (Data Security: Versleuteling van gegevens voor veilige overdracht)_
 - Stel een lijst op waarin systemen worden gerangschikt op basis van impact bij uitval.
-   _Verbindt met Lemma: ID.AM-5: Resources are prioritized based on their classification, criticality, and business value_
+   _Verbindt met Lemma: ID.AM-5: Resources are prioritized based on their classification, criticality, and business value_. Kijk zeker ook na of er classificatie is van de data (publiek, persoonsgegevens, etc.)
 
 ---
 
@@ -141,13 +141,14 @@ for authorized devices, users, and processes._
 
 **Controlepunten:**
 
-- Weten medewerkers wat ze moeten doen bij verdachte e-mails of beveiligingsincidenten?
+- Weten medewerkers wat ze moeten doen bij verdachte e-mails (phising) of beveiligingsincidenten?
 - Hebben medewerkers geleerd hoe ze sterke wachtwoorden kunnen maken?
 
 Te stellen vragen:
 
 - Wat doe je als je een verdachte e-mail ontvangt?
-- Weet je hoe je een sterk wachtwoord kiest?
+- Weet je hoe je een sterk wachtwoord kiest? (Is er een password policy aanwezig?)
+- Worden wachtwoorden herbruikt?
 
 **Acties:**
 
@@ -158,7 +159,7 @@ Te stellen vragen:
 - Zorg ervoor dat medewerkers weten waar ze beveiligingsproblemen kunnen melden.  
    _Verbindt met Lemma: DE.AE-2 (Anomalies and Events: Melding van beveiligingsincidenten door medewerkers)_
 - Schrijf een informatiebeveiligingsbeleid en update jaarlijks op basis van feedback.
-   _Verbindt met Lemma: ID.GV-4: Policies and procedures for information security and cybersecurity shall be created, documented, reviewed, approved, and updated when changes occur_
+   _Verbindt met Lemma: ID.GV-4 (Policies and procedures for information security and cybersecurity shall be created, documented, reviewed, approved, and updated when changes occur)_
 
 ---
 
