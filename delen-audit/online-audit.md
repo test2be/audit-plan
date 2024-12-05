@@ -123,13 +123,13 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
   _Verbindt met Lemma: PR.DS-1 (Data Security: Gegevens in rust worden beschermd)_
 
 - **Zorg dat alle medewerkers bekend zijn met de regelgeving en documenteer naleving.**
-  _Verbindt met Lemma:ID.GV-5: Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed_
+  _Verbindt met Lemma:ID.GV-5: (Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed)_
 
 - **Zorg dat alle medewerkers op de hoogte zijn van het privacybeleid en hoe ze moeten handelen bij vragen of verzoeken van klanten.**
-  _Verbindt met Lemma: PR.AT-1 (Awareness and Training: Training over relevante beveiligings- en privacynormen)._
+  _Verbindt met Lemma: PR.AT-1 (Awareness and Training: Training over relevante beveiligings- en privacynormen)_
 
 - **Implementeer een proces voor periodieke beoordeling en bijwerking van het privacybeleid.**
-  _Verbindt met Lemma: ID.RA-2 (Risk Assessment: Security en privacyprogramma's worden regelmatig beoordeeld en aangepast)._
+  _Verbindt met Lemma: ID.RA-2 (Risk Assessment: Security en privacyprogramma's worden regelmatig beoordeeld en aangepast)_
 
 ---
 
@@ -160,12 +160,12 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
   _Verbindt met Lemma: RC.RP-1 (Recovery Planning: Herstelplan wordt uitgevoerd na een incident)_
 
 - **Maak een incidentresponsplan en organiseer simulaties voor crisissituaties.**
-  _Verbindt met Lemma: RS.RP-2: Response plan is executed during or after an incident_
+  _Verbindt met Lemma: RS.RP-2: (Response plan is executed during or after an incident)_
 
 - **Test herstelprocedures regelmatig en zorg voor redundante back-ups op externe locaties.**
-  _Verbindt met Lemma: RC.RP-2: Recovery plan is executed during or after a cybersecurity incident_
+  _Verbindt met Lemma: RC.RP-2: (Recovery plan is executed during or after a cybersecurity incident)_
 - **Evalueer de voordelen en risico's van lokale en cloudopslag en maak een weloverwogen keuze die aansluit bij de beveiligings- en bedrijfscontinuïteitsdoelen.**
-  _Verbindt met Lemma: ID.RA-3 (Risk Assessment: Periodieke evaluatie van operationele processen)._
+  _Verbindt met Lemma: ID.RA-3 (Risk Assessment: Periodieke evaluatie van operationele processen)_
 
 ---
 
@@ -197,16 +197,16 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 - **Controleer of er gebruik wordt gemaakt van een CDN en DDoS-bescherming.**
   _Verbindt met Lemma: PR.PT-1 (Protective Technology: Bescherming van communicatie- en controle-netwerken)_
 - **Controleer of de DNS-configuratie correct is en of ongeautoriseerde toegang tot DNS-instellingen wordt voorkomen.**
-  _Verbindt met Lemma: PR.PT-4 (Protective Technology: Communicatienetwerken worden beveiligd)._
+  _Verbindt met Lemma: PR.PT-4 (Protective Technology: Communicatienetwerken worden beveiligd)_
 
 - **Bevestig dat de domeinnaam eigendom is van het bedrijf, dat de registratie up-to-date is, en dat verlengingen tijdig worden uitgevoerd.**
-  _Verbindt met Lemma: ID.AM-1 (Asset Management: Beheer van organisatieassets)._
+  _Verbindt met Lemma: ID.AM-1 (Asset Management: Beheer van organisatieassets)_
 
 - **Implementeer een proces voor het periodiek controleren van DNS-records, eigenaarschap en verlengingen.**
-  _Verbindt met Lemma: ID.RA-3 (Risk Assessment: Periodieke evaluatie van operationele processen)._
+  _Verbindt met Lemma: ID.RA-3 (Risk Assessment: Periodieke evaluatie van operationele processen)_
 
 - **Voer regelmatig audits uit van hosting-, domein- en DNS-diensten om risico's te identificeren en te minimaliseren.**
-  _Verbindt met Lemma: DE.CM-8 (Detection Processes: Beveiligingsbewakingsoplossingen worden gebruikt voor alle kritieke middelen)._
+  _Verbindt met Lemma: DE.CM-8 (Detection Processes: Beveiligingsbewakingsoplossingen worden gebruikt voor alle kritieke middelen)_
 
 ---
 
