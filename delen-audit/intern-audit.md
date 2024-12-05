@@ -14,31 +14,35 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
 ---
 
-### 1. Fysieke beveiliging (15-20 minuten)
+## 1. Fysieke beveiliging (15-20 minuten)
 
 ### Controlepunten:
 
-   - Is het kantoor goed afgesloten, zodat niemand zonder toestemming naar binnen kan?
-   - Worden laptops en andere waardevolle apparaten veilig opgeborgen als ze niet worden gebruikt?
-   - Zijn belangrijke documenten op een veilige plaats opgeslagen (bijv. in een lade of kast)?
-   - Is er iemand verantwoordelijk voor het in de gaten houden van wie het kantoor binnenkomt en verlaat?
+- Is het kantoor goed afgesloten?
+- Zijn servers, ethernet poorten en switches (indien aanwezig) goed afgesloten?
+- Worden apparaten zoals laptops veilig opgeborgen als ze niet worden gebruikt?
+- Zijn belangrijke documenten goed bewaard? (zeker de papieren met persoons gegevens.)
+- Is er een badge systeem?
+- Zijn de printers beveiligd? (indien aanwezig)
 
 ### Te stellen vragen:
 
-   - Hoe wordt de toegang tot het kantoor geregeld (bijv. sleutel of code)?
-   - Waar bewaar je je laptop en andere apparaten als je ze niet gebruikt?
-   - Wat gebeurt er met oude computers of documenten die je niet meer nodig hebt?
+- Hoe voorkom je dat iemand zonder toestemming het kantoor in komt? 
+- Is er een badge systeem aanwezig?
+- Zijn er servers, ethernetpoorten, switchen waar mensen zomaar aankunnen?
+- Waar leg je je laptop of waardevolle spullen neer als je ze niet gebruikt?
+- Waar bewaar je documenten die belangrijk zijn? Geld dit ook voor de papieren met persoonsgegevens?
+- Kan iedereen zomaar aan de printer?
 
 ### Acties:
 
-   - **Zorg ervoor dat laptops altijd op een veilige plek worden opgeborgen, bijvoorbeeld met een kabelslot of in een afgesloten kast.**  
-     *Verbindt met Lemma: PR.PT-4 (Protective Technology: Toepassing van fysieke beveiliging op apparatuur en netwerken)*
-
-   - **Bewaar gevoelige documenten op een veilige plek.**  
-     *Verbindt met Lemma: PR.DS-3 (Data Security: Fysieke en virtuele middelen worden beheerd bij verwijdering, overdracht en afstoting)*
-
-   - **Zorg ervoor dat alleen bevoegde mensen toegang hebben tot het kantoor.**  
-     *Verbindt met Lemma: PR.AC-1 (Identity Management and Access Control: Beheer van fysieke toegang tot gevoelige gebieden)*
+- Zorg ervoor dat laptops altijd veilig opgeborgen worden.
+  _Verbindt met Lemma: PR.PT-4 (Protective Technology: Toepassing van fysieke beveiliging op apparatuur en netwerken)_
+- Bewaar belangrijke documenten op een veilige plek.
+  _Verbindt met Lemma: PR.DS-3 (Data Security: Fysieke en virtuele middelen worden beheerd bij verwijdering, overdracht en afstoting)_
+- Zorg ervoor dat alleen de juiste mensen toegang hebben tot het kantoor.
+  _Verbindt met Lemma: PR.AC-1 (Identity Management and Access Control: Beheer van fysieke toegang tot gevoelige gebieden)_
+- Stel voor om printers aan te schaffen met "follow me" software
 
 ---
 
@@ -49,12 +53,14 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
    - Is het Wi-Fi-netwerk beveiligd met een sterk wachtwoord?
    - Is er een aparte Wi-Fi voor gasten en medewerkers?
    - Zijn de apparaten in het netwerk goed beschermd tegen virussen en andere bedreigingen?
+    - wat is de beveiling van het netwerk?
 
 ### Te stellen vragen:
 
    - Is het Wi-Fi-wachtwoord moeilijk te raden?
    - Hebben gasten een eigen Wi-Fi-netwerk of delen zij de Wi-Fi van het bedrijf?
    - Hoe controleer je of apparaten op het netwerk veilig zijn?
+   - welke beveiliging heeft de wifi? (kijk dit desnoods zelf na als de klant hier niet genoeg van weet) 
 
 ### Acties:
 
@@ -72,6 +78,7 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
    
    - **Stel monitoring in op interne netwerken en activeer logboeken voor verdachte activiteiten.**
      *Verbindt met Lemma: DE.CM-4: The network is monitored to detect potential cybersecurity events*
+  - **Zorg dat de wifi zeker beveiligd is met WPA3 en het gasten netwerk liefst enterprise is.**
 
 ---
 
@@ -82,12 +89,14 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
    - Worden apparaten zoals computers en telefoons regelmatig geüpdatet met de nieuwste software?
    - Zijn er regels voor het gebruik van persoonlijke apparaten (bijv. telefoon) voor werk?
    - Worden laptops versleuteld zodat ze niet kunnen worden gelezen als ze verloren gaan?
+   - Worden apparaten beheerd met Intune? 
 
 ### Te stellen vragen:
 
    - Worden je apparaten automatisch bijgewerkt of moet je dit handmatig doen?
    - Gebruik je je eigen telefoon voor werk? Zo ja, hoe zorg je ervoor dat die veilig is?
    - Wat gebeurt er als je laptop verloren gaat of gestolen wordt?
+   - Worden de apparaten centraal beheert met bv: Intune? (geld alleen als er meerdere apparaten aanwezig zijn.) 
 
 ### Acties:
 
@@ -103,6 +112,9 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
    - **Beperk het gebruik van admin-accounts tot systeembeheer en stel aparte accounts in voor dagelijks gebruik.**
      *Verbindt met Lemma:PR.AC-9: Nobody shall have administrator privileges for daily tasks*
 
+  - **Zorg voor centraal beheer bv. Intune.**
+  _Verbindt met Lemma: PR.AC-1 (Identities and credentials are issued, managed, verified, revoked, and audited 
+for authorized devices, users, and processes)._
 ---
 
 ## 4. Gegevensbeveiliging (20-25 minuten)
@@ -115,7 +127,7 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
 
 ### Te stellen vragen:
 
-   - Hoe vaak maak je een back-up van belangrijke bestanden?
+   - Hoe vaak maak je een back-up van belangrijke bestanden? ((Bereken RTO,RPO, retentie))
    - Wie kan er bij de belangrijke gegevens binnen het bedrijf?
    - Hoe verstuur je vertrouwelijke informatie? Is deze versleuteld?
 
@@ -148,6 +160,7 @@ Het interne deel van de audit is gericht op het controleren van de fysieke bevei
    - Wat moet je doen als je een verdachte e-mail ontvangt?
    - Heb je ooit geleerd hoe je een sterk wachtwoord maakt?
    - Hoe meld je een probleem als je iets verdachts ziet op je computer of in je werk?
+   - Worden wachtwoorden herbruikt? 
 
 ### Acties:
 
