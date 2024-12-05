@@ -2,12 +2,13 @@
 
 ## Overzicht
 
-Dit Security Audit Plan is ontwikkeld om kleine bedrijven te helpen bij het beoordelen en verbeteren van hun beveiligingsmaatregelen. Het plan is bedoeld voor auditors en collega’s die bedrijven bezoeken en bestaat uit 4 delen:
+Dit Security Audit Plan is ontwikkeld om kleine bedrijven te helpen bij het beoordelen en verbeteren van hun beveiligingsmaatregelen. Het plan is bedoeld voor auditors en collega’s die bedrijven bezoeken en bestaat uit 5 delen:
 
 1. **Online** – Gericht op digitale aanwezigheid, zoals websites, sociale media, en accounts.
 2. **Extern** – Behandelt externe beveiligingsaspecten, zoals toegang tot netwerken, cloudbeveiliging, en leveranciers.
 3. **Intern** – Gefocust op interne systemen, netwerken en fysieke beveiliging.
-4. **AuditPlan** - Dit is het totaal waarin alles staat.
+4. **Inventaris** -Gefocust op de inventaris. Wat wordt geïnventariseerd en waar.
+5. **AuditPlan** - Dit is het totaal waarin alles staat.
 
 Elk deel bevat controlepunten en te stellen vragen, zodat auditors een grondige en gestructureerde beoordeling kunnen uitvoeren.
 
