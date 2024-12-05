@@ -155,6 +155,8 @@ Het externe deel van de audit richt zich op de beveiliging van externe verbindin
 
 **Tijdsduur:** 1 tot 1,5 uur
 
+## Vraag achter de domein naam van het bedrijf en noteer deze
+
 ## 2.1 Beveiliging van Internetverbinding
 
 **Tijdsduur:** 15-20 minuten
