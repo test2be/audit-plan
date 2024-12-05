@@ -1,8 +1,10 @@
 ## 1. Inventarisatie
+
 ### Tijdsduur: 30 minuten tut 1 uur
+
 ### doelstelling:
 
-Een volledig overzicht creëren van alle online diensten; platforms, en accounts die door het bedrijf worden gebruikt. Deze inventarisatie is de basis voor het beoordelen van de beveiliging van de digitale omgeving.
+Het opstellen en onderhouden van een complete, centrale inventaris van alle gebruikte online diensten, platforms, accounts, en back-ups, zodat toegang en beheer van deze middelen effectief kunnen worden beheerd. Dit draagt bij aan een veiligere en beter georganiseerde digitale omgeving, waarbij inactieve accounts worden verwijderd, gebruikersrollen correcct worden ingesteld, en nieuwe middelen tijdig worden toegevoegsd.
 
 ### Controlepunten
 
