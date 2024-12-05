@@ -28,7 +28,7 @@ Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, a
 
 **Te stellen vragen:**
 
-- Hoe voorkom je dat iemand zonder toestemming het kantoor in komt? 
+- Hoe voorkom je dat iemand zonder toestemming het kantoor in komt?
 - Is er een badge systeem aanwezig?
 - Zijn er servers, ethernetpoorten, switchen waar mensen zomaar aankunnen?
 - Waar leg je je laptop of waardevolle spullen neer als je ze niet gebruikt?
@@ -103,8 +103,8 @@ Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, a
 - Stel monitoring in op interne netwerken en activeer logboeken voor verdachte activiteiten.
   _Verbindt met Lemma: DE.CM-4 (The network is monitored to detect potential cybersecurity events)_
 - Zorg voor centraal beheer bv. Intune.
-  _Verbindt met Lemma: PR.AC-1 (Identities and credentials are issued, managed, verified, revoked, and audited 
-for authorized devices, users, and processes)._
+  _Verbindt met Lemma: PR.AC-1 (Identities and credentials are issued, managed, verified, revoked, and audited
+  for authorized devices, users, and processes)._
 
 ---
 
@@ -131,7 +131,7 @@ for authorized devices, users, and processes)._
 - Versleutel vertrouwelijke informatie bij verzending (bijvoorbeeld via e-mail) en bij opslag.  
    _Verbindt met Lemma: PR.DS-5 (Data Security: Versleuteling van gegevens voor veilige overdracht)_
 - Stel een lijst op waarin systemen worden gerangschikt op basis van impact bij uitval.
-   _Verbindt met Lemma: ID.AM-5: Resources are prioritized based on their classification, criticality, and business value_. Kijk zeker ook na of er classificatie is van de data (publiek, persoonsgegevens, etc.)
+  _Verbindt met Lemma: ID.AM-5: Resources are prioritized based on their classification, criticality, and business value_. Kijk zeker ook na of er classificatie is van de data (publiek, persoonsgegevens, etc.)
 
 ---
 
@@ -159,7 +159,7 @@ Te stellen vragen:
 - Zorg ervoor dat medewerkers weten waar ze beveiligingsproblemen kunnen melden.  
    _Verbindt met Lemma: DE.AE-2 (Anomalies and Events: Melding van beveiligingsincidenten door medewerkers)_
 - Schrijf een informatiebeveiligingsbeleid en update jaarlijks op basis van feedback.
-   _Verbindt met Lemma: ID.GV-4 (Policies and procedures for information security and cybersecurity shall be created, documented, reviewed, approved, and updated when changes occur)_
+  _Verbindt met Lemma: ID.GV-4 (Policies and procedures for information security and cybersecurity shall be created, documented, reviewed, approved, and updated when changes occur)_
 
 ---
 
@@ -197,6 +197,7 @@ Het externe deel van de audit richt zich op de beveiliging van externe verbindin
   _Verbindt met Lemma:ID.GV-6: Governance and risk management processes address cybersecurity risks_
 - Configureer firewalls om inkomend en uitgaand verkeer te beperken tot alleen noodzakelijke verbindingen.
   _Verbindt met Lemma: PR.AC-10: Firewalls shall be installed and activated on all the organization's networks_
+
 ---
 
 ## 2.2 E-mail- en Online Communicatie
@@ -277,7 +278,7 @@ Het externe deel van de audit richt zich op de beveiliging van externe verbindin
 
 ## Doelstelling
 
-Het online deel van de audit richt zich op het beoordelen van de beveiliging van digitale aanwezigheid en accounts, en de monitoring van online bedreigingen.
+Het online deel van de audit richt zich op het beoordelen van de beveiliging van digitale aanwezigheid en accounts. Dit omvat de bescherming van online diensten, sociale media, en accounts die door het bedrijf worden gebruikt, evenals de monitoring van online bedreigingen en naleving van regelgeving.
 
 **Tijdsduur:** 2,5 tot 4 uur
 
@@ -289,13 +290,14 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
 
 - Worden alle bedrijfsaccounts beveiligd met sterke wachtwoorden en eventueel tweefactorauthenticatie (MFA)?
 - Zijn de toegangsmogelijkheden tot online accounts goed ingesteld?
+- Zijn gebruikersrollen en toegangsrechten goed ingesteld op online platforms zoals Office 365, Google en andere cloudservices?
 
 **Te stellen vragen:**
 
 - Gebruik je een sterk wachtwoord voor je online accounts?
 - Zet je tweefactorauthenticatie in voor belangrijke accounts?
-
-**Acties:**
+- Hoe wordt toegang tot gevoelige online diensten (bijv. boekhoudsoftware, CRM-systemen, Office 365, Google) beheerd?
+  **Acties:**
 
 - Zet tweefactorauthenticatie in voor belangrijke accounts.
   _Verbindt met Lemma: PR.AC-4 (Identity Management and Access Control: Beheer van toegang via multi-factor authenticatie)_
@@ -327,7 +329,7 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
 
 ---
 
-## 3.3 Monitoring van Online Bedreigingen
+## 3.3 Monitoring van Online Bedreigingen (optioneel)
 
 **Tijdsduur:** 30-45 minuten
 
@@ -356,11 +358,13 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
 **Controlepunten:**
 
 - Voldoet het bedrijf aan de privacywetgeving, zoals de AVG (GDPR)?
-
-**Te stellen vragen:**
+- Wordt het privacybeleid duidelijk gecommuniceerd aan klanten en medewerkers?
+  **Te stellen vragen:**
 
 - Hoe zorg je ervoor dat klantgegevens veilig worden bewaard?
 - Volg je de regels voor privacy zoals de AVG?
+- Is er een privacybeleid opgesteld en hoe wordt dit onderhouden en geüpdatet?
+- Hoe worden klanten en medewerkers geïnformeerd over hun recehten met betrekking tot privacy (bijv. recht op inzage, correctie, of verwijdering van gegevens)?
 
 **Acties:**
 
@@ -371,7 +375,13 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
 - Controleer de cookie-instellingen op de website en zorg ervoor dat ze voldoen aan de AGV.
   _Verbindt met Lemma: PR.DS-1 (Data Security: Gegevens in rust worden beschermd)_
 - Zorg dat alle medewerkers bekend zijn met de regelgeving en documenteer naleving.
-   _Verbindt met Lemma:ID.GV-5: Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed_
+  _Verbindt met Lemma:ID.GV-5: Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed_
+- Zorg dat alle medewerkers op de hoogte zijn van het privacybeleid en hoe ze moeten handelen bij vragen of verzoeken van klanten.
+  _Verbindt met Lemma: PR.AT-1 (Awareness and Training: Training over relevante beveiligings- en privacynormen)_
+- Implementeer een proces voor periodieke beoordeling en bijwerking van het privacybeleid.
+  _Verbindt met Lemma: ID.RA-2 (Risk Assessment: Security en privacyprogramma's worden regelmatig beoordeeld en aangepast)_
+
+---
 
 ---
 
@@ -383,12 +393,14 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
 - Zijn back-ups versleuteld en opgeslagen op een veilige locatie?
 - Is er een herstelplan in geval van dataverlies of een aanval op online systemen?
 - Worden back-ups getest om zeker te zijn dat ze werken?
+- Zijn back-ups opgeslagen in de cloud, lokaal, of op beide locaties voor redundantie?
+  **Te stellen vragen:**
 
-**Te stellen vragen:**
-
-1. Waar worden back-ups van online gegevens opgeslagen?
-2. Hoe vaak worden back-ups gemaakt en gecontroleerd?
-3. Wat is het proces om gegevens te herstellen na een incident?
+- Waar worden back-ups van online gegevens opgeslagen?
+- Hoe vaak worden back-ups gemaakt en gecontroleerd?
+- Wat is het proces om gegevens te herstellen na een incident?
+- Worden back-ups versleuteld om ongeautoriseerde toegang te voorkomen?
+- Is er een plan om te bepalen welke back-upopslag (lokaal, cloud) het beste past bij de behoeften van het bedrijf?
 
 **Acties:**
 
@@ -403,6 +415,8 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
 
 - Test herstelprocedures regelmatig en zorg voor redundante back-ups op externe locaties.
   _Verbindt met Lemma: RC.RP-2: Recovery plan is executed during or after a cybersecurity incident_
+- Evalueer de voordelen en risico's van lokale en cloudopslag en maak een weloverwogen keuze die aansluit bij de beveiligings- en bedrijfscontinuïteitsdoelen.
+  _Verbindt met Lemma: ID.RA-3 (Risk Assessment: Periodieke evaluatie van operationele processen)_
 
 ---
 
@@ -414,12 +428,17 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
 - Is er een beleid voor het beheren van toegangsrechten tot de website en hostingplatforms?
 - Wordt er gebruik gemaakt van CDN’s (Content Delivery Networks) en DDoS-bescherming?
 - Zijn API’s en andere online diensten goed beveiligd tegen ongeautoriseerde toegang?
+- Is de DNS-configuratie correct en wordt deze regelmatig gecontroleerd?
+- Staat het eigendom van de dommeinnaam op naam van het bedrijf en is het abonnement betaald en up-to-date?
 
 **Te stellen vragen:**
 
-1. Wie is verantwoordelijk voor het onderhoud van de website en andere online diensten?
-2. Hoe worden beveiligingsupdates en patches geïmplementeerd?
-3. Worden er regelmatig scans uitgevoerd om kwetsbaarheden te identificeren?
+- Wie is verantwoordelijk voor het onderhoud van de website en andere online diensten?
+- Hoe worden beveiligingsupdates en patches geïmplementeerd?
+- Worden er regelmatig scans uitgevoerd om kwetsbaarheden te identificeren?
+- Wie beheert de DNS-instellingen en hoe wordt toegang tot de DNS beperkt?
+- Op wie staat het eigendom van de domeinnaam en is het abonnement up-to-date?
+- Welke partij betaalt voor de domeinnaam en hosting?
 
 **Acties:**
 
@@ -428,6 +447,14 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
 
 - Controleer of er gebruik wordt gemaakt van een CDN en DDoS-bescherming.
   _Verbindt met Lemma: PR.PT-1 (Protective Technology: Bescherming van communicatie- en controle-netwerken)_
+- Bevestig dat de domeinnaam eigendom is van het bedrijf, dat de registratie up-to-date is, en dat verlengingen tijdig worden uitgevoerd.
+  _Verbindt met Lemma: ID.AM-1 (Asset Management: Beheer van organisatieassets)_
+
+- Implementeer een proces voor het periodiek controleren van DNS-records, eigenaarschap en verlengingen.
+  _Verbindt met Lemma: ID.RA-3 (Risk Assessment: Periodieke evaluatie van operationele processen)_
+
+- Voer regelmatig audits uit van hosting-, domein- en DNS-diensten om risico's te identificeren en te minimaliseren.
+  _Verbindt met Lemma: DE.CM-8 (Detection Processes: Beveiligingsbewakingsoplossingen worden gebruikt voor alle kritieke middelen)_
 
 ---
 
@@ -435,6 +462,7 @@ Het online deel van de audit richt zich op het beoordelen van de beveiliging van
 
 - **Tijdens de audit:** Noteer bevindingen en risico's, markeer prioriteiten en geef duidelijke aanbevelingen.
 - **Eindrapport:** Lever een eenvoudig rapport met concrete stappen voor het verbeteren van de beveiliging, zowel intern, extern als online.
+- **Openemen (optioneel):** Neem het gesprek op en maak een transcriptie voor toekomstige referentie.
 
 ---
 
