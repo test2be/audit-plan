@@ -20,14 +20,20 @@ Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, a
 **Controlepunten:**
 
 - Is het kantoor goed afgesloten?
+- Zijn servers, ethernet poorten en switches (indien aanwezig) goed afgesloten?
 - Worden apparaten zoals laptops veilig opgeborgen als ze niet worden gebruikt?
-- Zijn belangrijke documenten goed bewaard?
+- Zijn belangrijke documenten goed bewaard? (zeker de papieren met persoons gegevens.)
+- Is er een badge systeem?
+- Zijn de printers beveiligd? (indien aanwezig)
 
 **Te stellen vragen:**
 
-- Hoe voorkom je dat iemand zonder toestemming het kantoor in komt?
+- Hoe voorkom je dat iemand zonder toestemming het kantoor in komt? 
+- Is er een badge systeem aanwezig?
+- Zijn er servers, ethernetpoorten, switchen waar mensen zomaar aankunnen?
 - Waar leg je je laptop of waardevolle spullen neer als je ze niet gebruikt?
-- Waar bewaar je documenten die belangrijk zijn?
+- Waar bewaar je documenten die belangrijk zijn? Geld dit ook voor de papieren met persoonsgegevens?
+- Kan iedereen zomaar aan de printer?
 
 **Acties:**
 
@@ -37,6 +43,7 @@ Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, a
   _Verbindt met Lemma: PR.DS-3 (Data Security: Fysieke en virtuele middelen worden beheerd bij verwijdering, overdracht en afstoting)_
 - Zorg ervoor dat alleen de juiste mensen toegang hebben tot het kantoor.
   _Verbindt met Lemma: PR.AC-1 (Identity Management and Access Control: Beheer van fysieke toegang tot gevoelige gebieden)_
+- Stel voor om printers aan te schaffen met "follow me" software
 
 ---
 
@@ -48,11 +55,13 @@ Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, a
 
 - Is je Wi-Fi-netwerk veilig met een sterk wachtwoord?
 - Hebben gasten een apart Wi-Fi-netwerk?
+- wat is de beveiling van het netwerk?
 
 **Te stellen vragen:**
 
 - Hoe sterk is je Wi-Fi-wachtwoord?
 - Heb je een apart netwerk voor gasten, of gebruiken ze jouw netwerk?
+- welke beveiliging heeft de wifi? (kijk dit desnoods zelf na als de klant hier niet genoeg van weet)
 
 **Acties:**
 
@@ -61,6 +70,7 @@ Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, a
 - Zet een apart netwerk op voor gasten en andere apparaten die geen toegang hoeven te hebben tot bedrijfsgegevens.
   _Verbindt met Lemma: PR.AC-3 (Identity Management and Access Control: Isoleren van netwerken om toegang te beperken)_
   - Zorg ervoor dat alle apparaten op het netwerk een virusscanner hebben en dat deze up-to-date is.
+  - Zorg dat de wifi zeker beveiligd is met WPA3 en het gasten netwerk liefst enterprise is.
 
 ---
 
@@ -72,11 +82,13 @@ Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, a
 
 - Worden apparaten zoals computers en telefoons regelmatig geüpdatet?
 - Hebben laptops een versleuteling zodat je gegevens veilig zijn als je je laptop verliest?
+- Worden apparaten beheerd met Intune?
 
 **Te stellen vragen:**
 
 - Heb je automatische updates ingesteld voor je apparaten?
 - Wat gebeurt er als je laptop verloren gaat of gestolen wordt?
+- Worden de apparaten centraal beheert met bv: Intune? (geld alleen als er meerdere apparaten aanwezig zijn.)
 
 **Acties:**
 
@@ -90,6 +102,9 @@ Het interne deel van de audit richt zich op de fysieke beveiliging, netwerken, a
   _Verbindt met Lemma: PR.AC-11: Where appropriate, network integrity of the organization's critical systems shall be protected by incorporating network segmentation and segregation_
 - Stel monitoring in op interne netwerken en activeer logboeken voor verdachte activiteiten.
   _Verbindt met Lemma: DE.CM-4: The network is monitored to detect potential cybersecurity events_
+- Zorg voor centraal beheer bv. Intune.
+  _Verbindt met Lemma: PR.AC-1: Identities and credentials are issued, managed, verified, revoked, and audited 
+for authorized devices, users, and processes._
 
 ---
 
