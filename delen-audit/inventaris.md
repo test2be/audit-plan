@@ -1,5 +1,5 @@
-## 1. Inventarisatie van Online Diensten en Accounts
-
+## 1. Inventarisatie
+### Tijdsduur: 30 minuten tut 1 uur
 ### doelstelling:
 
 Een volledig overzicht creëren van alle online diensten; platforms, en accounts die door het bedrijf worden gebruikt. Deze inventarisatie is de basis voor het beoordelen van de beveiliging van de digitale omgeving.
@@ -11,6 +11,7 @@ Een volledig overzicht creëren van alle online diensten; platforms, en accounts
 - Zijn gebruikersrollen en toegangsrechten opgenomen in de inventaris?
 - Wordt de inventatis regelmatig bijgewerkt en gecontroleerd op volledigheid?
 - Worden nieuwe diensten of accounts toegevoegd aan de inventaris bij ingebruikname?
+- Worden back-ups geïnvitariseerd?
 
 ### Te stellen vragen:
 
@@ -19,6 +20,7 @@ Een volledig overzicht creëren van alle online diensten; platforms, en accounts
 - Hoe vaak wordt de inventatis geüpdatet en gecontroleerd op volledigheid?
 - Zijn er accounts of diensten die niet meer in gebruik zijn maar nog wel toegang hebben tot bedrijfsgegevens?
 - Hoe worden nieuwe accounts en diensten geregistreerd in de inventaris?
+- Hoe worden back-ups geregistreerd in de inventaris?
 
 ### Acties
 
@@ -30,3 +32,5 @@ Een volledig overzicht creëren van alle online diensten; platforms, en accounts
   _Verbindt met Lemma: PR.AC-9 (Identity Management and Access Control: Beheer van toegangsrechten en autorisaties)._
 - **Stel een proces in voor het regelmatig bijwerken en controleren van de inventaris.**
   _Verbindt met Lemma: ID.AM-2 (Asset Management: Assets worden regelmatig geëvalueerd en geüpdatet)._
+- **Controleer of back-ups worden opgenomen in de inventaris.**
+  _Verbindt met Lemma: PR.IP-1 (Backups of information are conducted, maintained, and tested.)._
