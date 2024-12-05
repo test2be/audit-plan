@@ -1,6 +1,7 @@
-# **Beveiligingsauditplan**
+# Beveiligingsauditplan
 
-**Doelstelling**  
+## Doelstelling
+
 Het doel van deze audit is om de beveiliging van een klein bedrijf te beoordelen, met de focus op interne, externe en online beveiliging. De audit is verdeeld in drie secties: intern, extern en online, die allemaal een overzicht geven van de belangrijkste controles en vragen die moeten worden gesteld.
 
 ---
