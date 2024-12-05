@@ -72,7 +72,7 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 
 ---
 
-## 3. Monitoring van online bedreigingen
+## 3. Monitoring van online bedreigingen (optioneel)
 
 ### Controlepunten:
 
@@ -104,12 +104,15 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 - Voldoen alle online diensten en accounts aan relevante privacy- en beveiligingswetgeving, zoals de AVG (GDPR)?
 - Wordt er een verwerkersovereenkomst gesloten met online dienstverleners?
 - Zijn cookies en trackingtools op de website correct ingesteld en in lijn met de regelgeving?
+- Wordt het privacybeleid duidelijk gecommuniceerd aan klanten en medewerkers?
 
 ### Te stellen vragen:
 
 1. Hoe wordt ervoor gezorgd dat online diensten voldoen aan regelgeving zoals de AVG?
 2. Hoe worden bezoekers van de website geïnformeerd over het gebruik van cookies?
 3. Worden online diensten periodiek geëvalueerd op naleving van beveiligingsnormen?
+4. Is er een privacybeleid opgesteld en hoe wordt dit onderhouden en geüpdatet?
+5. Hoe worden klanten en medewerkers geïnformeerd over hun recehten met betrekking tot privacy (bijv. recht op inzage, correctie, of verwijdering van gegevens)?
 
 ### Acties:
 
@@ -122,6 +125,12 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 - **Zorg dat alle medewerkers bekend zijn met de regelgeving en documenteer naleving.**
   _Verbindt met Lemma:ID.GV-5: Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed_
 
+- **Zorg dat alle medewerkers op de hoogte zijn van het privacybeleid en hoe ze moeten handelen bij vragen of verzoeken van klanten.**
+  _Verbindt met Lemma: PR.AT-1 (Awareness and Training: Training over relevante beveiligings- en privacynormen)._
+
+- **Implementeer een proces voor periodieke beoordeling en bijwerking van het privacybeleid.**
+  _Verbindt met Lemma: ID.RA-2 (Risk Assessment: Security en privacyprogramma's worden regelmatig beoordeeld en aangepast)._
+
 ---
 
 ## 5. Back-ups en herstelplannen
@@ -132,12 +141,15 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 - Zijn back-ups versleuteld en opgeslagen op een veilige locatie?
 - Is er een herstelplan in geval van dataverlies of een aanval op online systemen?
 - Worden back-ups getest om zeker te zijn dat ze werken?
+- Zijn back-ups opgeslagen in de cloud, lokaal, of op beide locaties voor redundantie?
 
 ### Te stellen vragen:
 
 1. Waar worden back-ups van online gegevens opgeslagen?
 2. Hoe vaak worden back-ups gemaakt en gecontroleerd?
 3. Wat is het proces om gegevens te herstellen na een incident?
+4. Worden back-ups versleuteld om ongeautoriseerde toegang te voorkomen?
+5. Is er een plan om te bepalen welke back-upopslag (lokaal, cloud) het beste past bij de behoeften van het bedrijf?
 
 ### Acties:
 
@@ -152,6 +164,8 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 
 - **Test herstelprocedures regelmatig en zorg voor redundante back-ups op externe locaties.**
   _Verbindt met Lemma: RC.RP-2: Recovery plan is executed during or after a cybersecurity incident_
+- **Evalueer de voordelen en risico's van lokale en cloudopslag en maak een weloverwogen keuze die aansluit bij de beveiligings- en bedrijfscontinuïteitsdoelen.**
+  _Verbindt met Lemma: ID.RA-3 (Risk Assessment: Periodieke evaluatie van operationele processen)._
 
 ---
 
@@ -163,12 +177,17 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 - Is er een beleid voor het beheren van toegangsrechten tot de website en hostingplatforms?
 - Wordt er gebruik gemaakt van CDN’s (Content Delivery Networks) en DDoS-bescherming?
 - Zijn API’s en andere online diensten goed beveiligd tegen ongeautoriseerde toegang?
+- Is de DNS-configuratie correct en wordt deze regelmatig gecontroleerd?
+- Staat het eigendom van de dommeinnaam op naam van het bedrijf en is het abonnement betaald en up-to-date?
 
 ### Te stellen vragen:
 
 1. Wie is verantwoordelijk voor het onderhoud van de website en andere online diensten?
 2. Hoe worden beveiligingsupdates en patches geïmplementeerd?
 3. Worden er regelmatig scans uitgevoerd om kwetsbaarheden te identificeren?
+4. Wie beheert de DNS-instellingen en hoe wordt toegang tot de DNS beperkt?
+5. Op wie staat het eigendom van de domeinnaam en is het abonnement up-to-date?
+6. Welke partij betaalt voor de domeinnaam en hosting?
 
 ### Acties:
 
@@ -177,6 +196,17 @@ De online audit duurt ongeveer 2,5 tot 4 uur en omvat:
 
 - **Controleer of er gebruik wordt gemaakt van een CDN en DDoS-bescherming.**
   _Verbindt met Lemma: PR.PT-1 (Protective Technology: Bescherming van communicatie- en controle-netwerken)_
+- **Controleer of de DNS-configuratie correct is en of ongeautoriseerde toegang tot DNS-instellingen wordt voorkomen.**
+  _Verbindt met Lemma: PR.PT-4 (Protective Technology: Communicatienetwerken worden beveiligd)._
+
+- **Bevestig dat de domeinnaam eigendom is van het bedrijf, dat de registratie up-to-date is, en dat verlengingen tijdig worden uitgevoerd.**
+  _Verbindt met Lemma: ID.AM-1 (Asset Management: Beheer van organisatieassets)._
+
+- **Implementeer een proces voor het periodiek controleren van DNS-records, eigenaarschap en verlengingen.**
+  _Verbindt met Lemma: ID.RA-3 (Risk Assessment: Periodieke evaluatie van operationele processen)._
+
+- **Voer regelmatig audits uit van hosting-, domein- en DNS-diensten om risico's te identificeren en te minimaliseren.**
+  _Verbindt met Lemma: DE.CM-8 (Detection Processes: Beveiligingsbewakingsoplossingen worden gebruikt voor alle kritieke middelen)._
 
 ---
 
