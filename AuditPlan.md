@@ -179,7 +179,6 @@ Het externe deel van de audit richt zich op de beveiliging van externe verbindin
 
 **Controlepunten:**
 
-- Is je Wi-Fi-netwerk veilig ingesteld?
 - Is de router goed beveiligd en geüpdatet?
 
 **Te stellen vragen:**
